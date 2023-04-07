@@ -1,0 +1,14 @@
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-5/10.InvalidNumber/bin/Debug/netcoreapp3.1/10.InvalidNumber
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-5/10.InvalidNumber/bin/Debug/netcoreapp3.1/10.InvalidNumber.deps.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-5/10.InvalidNumber/bin/Debug/netcoreapp3.1/10.InvalidNumber.runtimeconfig.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-5/10.InvalidNumber/bin/Debug/netcoreapp3.1/10.InvalidNumber.runtimeconfig.dev.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-5/10.InvalidNumber/bin/Debug/netcoreapp3.1/10.InvalidNumber.dll
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-5/10.InvalidNumber/bin/Debug/netcoreapp3.1/10.InvalidNumber.pdb
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-5/10.InvalidNumber/obj/Debug/netcoreapp3.1/10.InvalidNumber.csproj.AssemblyReference.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-5/10.InvalidNumber/obj/Debug/netcoreapp3.1/10.InvalidNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-5/10.InvalidNumber/obj/Debug/netcoreapp3.1/10.InvalidNumber.AssemblyInfoInputs.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-5/10.InvalidNumber/obj/Debug/netcoreapp3.1/10.InvalidNumber.AssemblyInfo.cs
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-5/10.InvalidNumber/obj/Debug/netcoreapp3.1/10.InvalidNumber.csproj.CoreCompileInputs.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-5/10.InvalidNumber/obj/Debug/netcoreapp3.1/10.InvalidNumber.dll
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-5/10.InvalidNumber/obj/Debug/netcoreapp3.1/10.InvalidNumber.pdb
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-5/10.InvalidNumber/obj/Debug/netcoreapp3.1/10.InvalidNumber.genruntimeconfig.cache

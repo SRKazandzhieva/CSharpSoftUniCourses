@@ -1,0 +1,14 @@
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-5/03.AnimalType/bin/Debug/netcoreapp3.1/03.AnimalType
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-5/03.AnimalType/bin/Debug/netcoreapp3.1/03.AnimalType.deps.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-5/03.AnimalType/bin/Debug/netcoreapp3.1/03.AnimalType.runtimeconfig.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-5/03.AnimalType/bin/Debug/netcoreapp3.1/03.AnimalType.runtimeconfig.dev.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-5/03.AnimalType/bin/Debug/netcoreapp3.1/03.AnimalType.dll
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-5/03.AnimalType/bin/Debug/netcoreapp3.1/03.AnimalType.pdb
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-5/03.AnimalType/obj/Debug/netcoreapp3.1/03.AnimalType.csproj.AssemblyReference.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-5/03.AnimalType/obj/Debug/netcoreapp3.1/03.AnimalType.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-5/03.AnimalType/obj/Debug/netcoreapp3.1/03.AnimalType.AssemblyInfoInputs.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-5/03.AnimalType/obj/Debug/netcoreapp3.1/03.AnimalType.AssemblyInfo.cs
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-5/03.AnimalType/obj/Debug/netcoreapp3.1/03.AnimalType.csproj.CoreCompileInputs.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-5/03.AnimalType/obj/Debug/netcoreapp3.1/03.AnimalType.dll
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-5/03.AnimalType/obj/Debug/netcoreapp3.1/03.AnimalType.pdb
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-5/03.AnimalType/obj/Debug/netcoreapp3.1/03.AnimalType.genruntimeconfig.cache

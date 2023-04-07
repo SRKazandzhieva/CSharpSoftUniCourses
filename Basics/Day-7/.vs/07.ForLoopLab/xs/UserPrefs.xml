@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{30930CE9-8865-49AD-9FB4-599B3426E25A}|Default">
+  <MonoDevelop.Ide.ItemProperties.07.SumNumbers PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.01.NumbersFrom1to100 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.05.CharacterSequence PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.03.Numbers1toNwithStep3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.08.NumberSequence PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.02.NumbersNto1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.06.VowelsSum PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../10.OddEvenSum/Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="../02.NumbersNto1/Program.cs" Line="13" Column="8" />
+      <File FileName="../03.Numbers1toNwithStep3/Program.cs" Line="19" Column="1" />
+      <File FileName="../04.EvenPowersOf2/Program.cs" Line="12" Column="14" />
+      <File FileName="../05.CharacterSequence/Program.cs" Line="19" Column="1" />
+      <File FileName="../06.VowelsSum/Program.cs" Line="34" Column="18" />
+      <File FileName="../07.SumNumbers/Program.cs" Line="14" Column="14" />
+      <File FileName="../08.NumberSequence/Program.cs" Line="24" Column="18" />
+      <File FileName="../09.LeftAndRightSum/Program.cs" Line="25" Column="2" />
+      <File FileName="../10.OddEvenSum/Program.cs" Line="27" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="07.ForLoopLab" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.09.LeftAndRightSum PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.04.EvenPowersOf2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.10.OddEvenSum PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

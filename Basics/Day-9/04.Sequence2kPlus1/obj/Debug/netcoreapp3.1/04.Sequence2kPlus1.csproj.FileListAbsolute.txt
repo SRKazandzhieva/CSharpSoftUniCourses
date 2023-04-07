@@ -1,0 +1,14 @@
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-9/04.Sequence2kPlus1/bin/Debug/netcoreapp3.1/04.Sequence2kPlus1
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-9/04.Sequence2kPlus1/bin/Debug/netcoreapp3.1/04.Sequence2kPlus1.deps.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-9/04.Sequence2kPlus1/bin/Debug/netcoreapp3.1/04.Sequence2kPlus1.runtimeconfig.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-9/04.Sequence2kPlus1/bin/Debug/netcoreapp3.1/04.Sequence2kPlus1.runtimeconfig.dev.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-9/04.Sequence2kPlus1/bin/Debug/netcoreapp3.1/04.Sequence2kPlus1.dll
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-9/04.Sequence2kPlus1/bin/Debug/netcoreapp3.1/04.Sequence2kPlus1.pdb
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-9/04.Sequence2kPlus1/obj/Debug/netcoreapp3.1/04.Sequence2kPlus1.csproj.AssemblyReference.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-9/04.Sequence2kPlus1/obj/Debug/netcoreapp3.1/04.Sequence2kPlus1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-9/04.Sequence2kPlus1/obj/Debug/netcoreapp3.1/04.Sequence2kPlus1.AssemblyInfoInputs.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-9/04.Sequence2kPlus1/obj/Debug/netcoreapp3.1/04.Sequence2kPlus1.AssemblyInfo.cs
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-9/04.Sequence2kPlus1/obj/Debug/netcoreapp3.1/04.Sequence2kPlus1.csproj.CoreCompileInputs.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-9/04.Sequence2kPlus1/obj/Debug/netcoreapp3.1/04.Sequence2kPlus1.dll
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-9/04.Sequence2kPlus1/obj/Debug/netcoreapp3.1/04.Sequence2kPlus1.pdb
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-9/04.Sequence2kPlus1/obj/Debug/netcoreapp3.1/04.Sequence2kPlus1.genruntimeconfig.cache

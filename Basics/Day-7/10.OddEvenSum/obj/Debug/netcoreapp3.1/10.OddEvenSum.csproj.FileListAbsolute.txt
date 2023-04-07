@@ -1,0 +1,14 @@
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/10.OddEvenSum/bin/Debug/netcoreapp3.1/10.OddEvenSum
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/10.OddEvenSum/bin/Debug/netcoreapp3.1/10.OddEvenSum.deps.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/10.OddEvenSum/bin/Debug/netcoreapp3.1/10.OddEvenSum.runtimeconfig.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/10.OddEvenSum/bin/Debug/netcoreapp3.1/10.OddEvenSum.runtimeconfig.dev.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/10.OddEvenSum/bin/Debug/netcoreapp3.1/10.OddEvenSum.dll
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/10.OddEvenSum/bin/Debug/netcoreapp3.1/10.OddEvenSum.pdb
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/10.OddEvenSum/obj/Debug/netcoreapp3.1/10.OddEvenSum.csproj.AssemblyReference.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/10.OddEvenSum/obj/Debug/netcoreapp3.1/10.OddEvenSum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/10.OddEvenSum/obj/Debug/netcoreapp3.1/10.OddEvenSum.AssemblyInfoInputs.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/10.OddEvenSum/obj/Debug/netcoreapp3.1/10.OddEvenSum.AssemblyInfo.cs
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/10.OddEvenSum/obj/Debug/netcoreapp3.1/10.OddEvenSum.csproj.CoreCompileInputs.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/10.OddEvenSum/obj/Debug/netcoreapp3.1/10.OddEvenSum.dll
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/10.OddEvenSum/obj/Debug/netcoreapp3.1/10.OddEvenSum.pdb
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/10.OddEvenSum/obj/Debug/netcoreapp3.1/10.OddEvenSum.genruntimeconfig.cache

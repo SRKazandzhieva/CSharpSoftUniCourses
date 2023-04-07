@@ -1,0 +1,14 @@
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni/01.FirstStepsInProgramingLab/06.ConcatenateData/bin/Debug/netcoreapp3.1/06.ConcatenateData
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni/01.FirstStepsInProgramingLab/06.ConcatenateData/bin/Debug/netcoreapp3.1/06.ConcatenateData.deps.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni/01.FirstStepsInProgramingLab/06.ConcatenateData/bin/Debug/netcoreapp3.1/06.ConcatenateData.runtimeconfig.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni/01.FirstStepsInProgramingLab/06.ConcatenateData/bin/Debug/netcoreapp3.1/06.ConcatenateData.runtimeconfig.dev.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni/01.FirstStepsInProgramingLab/06.ConcatenateData/bin/Debug/netcoreapp3.1/06.ConcatenateData.dll
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni/01.FirstStepsInProgramingLab/06.ConcatenateData/bin/Debug/netcoreapp3.1/06.ConcatenateData.pdb
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni/01.FirstStepsInProgramingLab/06.ConcatenateData/obj/Debug/netcoreapp3.1/06.ConcatenateData.csproj.AssemblyReference.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni/01.FirstStepsInProgramingLab/06.ConcatenateData/obj/Debug/netcoreapp3.1/06.ConcatenateData.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni/01.FirstStepsInProgramingLab/06.ConcatenateData/obj/Debug/netcoreapp3.1/06.ConcatenateData.AssemblyInfoInputs.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni/01.FirstStepsInProgramingLab/06.ConcatenateData/obj/Debug/netcoreapp3.1/06.ConcatenateData.AssemblyInfo.cs
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni/01.FirstStepsInProgramingLab/06.ConcatenateData/obj/Debug/netcoreapp3.1/06.ConcatenateData.csproj.CoreCompileInputs.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni/01.FirstStepsInProgramingLab/06.ConcatenateData/obj/Debug/netcoreapp3.1/06.ConcatenateData.dll
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni/01.FirstStepsInProgramingLab/06.ConcatenateData/obj/Debug/netcoreapp3.1/06.ConcatenateData.pdb
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni/01.FirstStepsInProgramingLab/06.ConcatenateData/obj/Debug/netcoreapp3.1/06.ConcatenateData.genruntimeconfig.cache

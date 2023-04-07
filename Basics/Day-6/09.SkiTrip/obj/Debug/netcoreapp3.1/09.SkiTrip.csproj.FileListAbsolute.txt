@@ -1,0 +1,14 @@
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-6/09.SkiTrip/bin/Debug/netcoreapp3.1/09.SkiTrip
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-6/09.SkiTrip/bin/Debug/netcoreapp3.1/09.SkiTrip.deps.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-6/09.SkiTrip/bin/Debug/netcoreapp3.1/09.SkiTrip.runtimeconfig.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-6/09.SkiTrip/bin/Debug/netcoreapp3.1/09.SkiTrip.runtimeconfig.dev.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-6/09.SkiTrip/bin/Debug/netcoreapp3.1/09.SkiTrip.dll
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-6/09.SkiTrip/bin/Debug/netcoreapp3.1/09.SkiTrip.pdb
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-6/09.SkiTrip/obj/Debug/netcoreapp3.1/09.SkiTrip.csproj.AssemblyReference.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-6/09.SkiTrip/obj/Debug/netcoreapp3.1/09.SkiTrip.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-6/09.SkiTrip/obj/Debug/netcoreapp3.1/09.SkiTrip.AssemblyInfoInputs.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-6/09.SkiTrip/obj/Debug/netcoreapp3.1/09.SkiTrip.AssemblyInfo.cs
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-6/09.SkiTrip/obj/Debug/netcoreapp3.1/09.SkiTrip.csproj.CoreCompileInputs.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-6/09.SkiTrip/obj/Debug/netcoreapp3.1/09.SkiTrip.dll
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-6/09.SkiTrip/obj/Debug/netcoreapp3.1/09.SkiTrip.pdb
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-6/09.SkiTrip/obj/Debug/netcoreapp3.1/09.SkiTrip.genruntimeconfig.cache

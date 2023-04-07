@@ -1,0 +1,14 @@
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-5/09.FruitOrVegetable/bin/Debug/netcoreapp3.1/09.FruitOrVegetable
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-5/09.FruitOrVegetable/bin/Debug/netcoreapp3.1/09.FruitOrVegetable.deps.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-5/09.FruitOrVegetable/bin/Debug/netcoreapp3.1/09.FruitOrVegetable.runtimeconfig.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-5/09.FruitOrVegetable/bin/Debug/netcoreapp3.1/09.FruitOrVegetable.runtimeconfig.dev.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-5/09.FruitOrVegetable/bin/Debug/netcoreapp3.1/09.FruitOrVegetable.dll
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-5/09.FruitOrVegetable/bin/Debug/netcoreapp3.1/09.FruitOrVegetable.pdb
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-5/09.FruitOrVegetable/obj/Debug/netcoreapp3.1/09.FruitOrVegetable.csproj.AssemblyReference.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-5/09.FruitOrVegetable/obj/Debug/netcoreapp3.1/09.FruitOrVegetable.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-5/09.FruitOrVegetable/obj/Debug/netcoreapp3.1/09.FruitOrVegetable.AssemblyInfoInputs.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-5/09.FruitOrVegetable/obj/Debug/netcoreapp3.1/09.FruitOrVegetable.AssemblyInfo.cs
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-5/09.FruitOrVegetable/obj/Debug/netcoreapp3.1/09.FruitOrVegetable.csproj.CoreCompileInputs.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-5/09.FruitOrVegetable/obj/Debug/netcoreapp3.1/09.FruitOrVegetable.dll
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-5/09.FruitOrVegetable/obj/Debug/netcoreapp3.1/09.FruitOrVegetable.pdb
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-5/09.FruitOrVegetable/obj/Debug/netcoreapp3.1/09.FruitOrVegetable.genruntimeconfig.cache

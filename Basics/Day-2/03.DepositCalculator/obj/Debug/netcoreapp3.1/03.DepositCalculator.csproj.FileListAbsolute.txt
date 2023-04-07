@@ -1,0 +1,14 @@
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/03.DepositCalculator/bin/Debug/netcoreapp3.1/03.DepositCalculator
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/03.DepositCalculator/bin/Debug/netcoreapp3.1/03.DepositCalculator.deps.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/03.DepositCalculator/bin/Debug/netcoreapp3.1/03.DepositCalculator.runtimeconfig.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/03.DepositCalculator/bin/Debug/netcoreapp3.1/03.DepositCalculator.runtimeconfig.dev.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/03.DepositCalculator/bin/Debug/netcoreapp3.1/03.DepositCalculator.dll
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/03.DepositCalculator/bin/Debug/netcoreapp3.1/03.DepositCalculator.pdb
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/03.DepositCalculator/obj/Debug/netcoreapp3.1/03.DepositCalculator.csproj.AssemblyReference.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/03.DepositCalculator/obj/Debug/netcoreapp3.1/03.DepositCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/03.DepositCalculator/obj/Debug/netcoreapp3.1/03.DepositCalculator.AssemblyInfoInputs.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/03.DepositCalculator/obj/Debug/netcoreapp3.1/03.DepositCalculator.AssemblyInfo.cs
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/03.DepositCalculator/obj/Debug/netcoreapp3.1/03.DepositCalculator.csproj.CoreCompileInputs.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/03.DepositCalculator/obj/Debug/netcoreapp3.1/03.DepositCalculator.dll
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/03.DepositCalculator/obj/Debug/netcoreapp3.1/03.DepositCalculator.pdb
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/03.DepositCalculator/obj/Debug/netcoreapp3.1/03.DepositCalculator.genruntimeconfig.cache

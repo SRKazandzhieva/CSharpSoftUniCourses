@@ -1,0 +1,14 @@
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-9/03.SumNumbers/bin/Debug/netcoreapp3.1/03.SumNumbers
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-9/03.SumNumbers/bin/Debug/netcoreapp3.1/03.SumNumbers.deps.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-9/03.SumNumbers/bin/Debug/netcoreapp3.1/03.SumNumbers.runtimeconfig.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-9/03.SumNumbers/bin/Debug/netcoreapp3.1/03.SumNumbers.runtimeconfig.dev.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-9/03.SumNumbers/bin/Debug/netcoreapp3.1/03.SumNumbers.dll
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-9/03.SumNumbers/bin/Debug/netcoreapp3.1/03.SumNumbers.pdb
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-9/03.SumNumbers/obj/Debug/netcoreapp3.1/03.SumNumbers.csproj.AssemblyReference.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-9/03.SumNumbers/obj/Debug/netcoreapp3.1/03.SumNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-9/03.SumNumbers/obj/Debug/netcoreapp3.1/03.SumNumbers.AssemblyInfoInputs.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-9/03.SumNumbers/obj/Debug/netcoreapp3.1/03.SumNumbers.AssemblyInfo.cs
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-9/03.SumNumbers/obj/Debug/netcoreapp3.1/03.SumNumbers.csproj.CoreCompileInputs.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-9/03.SumNumbers/obj/Debug/netcoreapp3.1/03.SumNumbers.dll
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-9/03.SumNumbers/obj/Debug/netcoreapp3.1/03.SumNumbers.pdb
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-9/03.SumNumbers/obj/Debug/netcoreapp3.1/03.SumNumbers.genruntimeconfig.cache

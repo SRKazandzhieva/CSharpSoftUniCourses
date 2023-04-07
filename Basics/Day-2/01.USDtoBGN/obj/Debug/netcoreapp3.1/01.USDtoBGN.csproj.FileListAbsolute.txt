@@ -1,0 +1,14 @@
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/01.USDtoBGN/bin/Debug/netcoreapp3.1/01.USDtoBGN
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/01.USDtoBGN/bin/Debug/netcoreapp3.1/01.USDtoBGN.deps.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/01.USDtoBGN/bin/Debug/netcoreapp3.1/01.USDtoBGN.runtimeconfig.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/01.USDtoBGN/bin/Debug/netcoreapp3.1/01.USDtoBGN.runtimeconfig.dev.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/01.USDtoBGN/bin/Debug/netcoreapp3.1/01.USDtoBGN.dll
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/01.USDtoBGN/bin/Debug/netcoreapp3.1/01.USDtoBGN.pdb
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/01.USDtoBGN/obj/Debug/netcoreapp3.1/01.USDtoBGN.csproj.AssemblyReference.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/01.USDtoBGN/obj/Debug/netcoreapp3.1/01.USDtoBGN.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/01.USDtoBGN/obj/Debug/netcoreapp3.1/01.USDtoBGN.AssemblyInfoInputs.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/01.USDtoBGN/obj/Debug/netcoreapp3.1/01.USDtoBGN.AssemblyInfo.cs
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/01.USDtoBGN/obj/Debug/netcoreapp3.1/01.USDtoBGN.csproj.CoreCompileInputs.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/01.USDtoBGN/obj/Debug/netcoreapp3.1/01.USDtoBGN.dll
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/01.USDtoBGN/obj/Debug/netcoreapp3.1/01.USDtoBGN.pdb
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/01.USDtoBGN/obj/Debug/netcoreapp3.1/01.USDtoBGN.genruntimeconfig.cache

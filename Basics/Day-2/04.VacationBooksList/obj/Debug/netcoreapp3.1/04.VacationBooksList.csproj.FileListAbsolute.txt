@@ -1,0 +1,14 @@
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/04.VacationBooksList/bin/Debug/netcoreapp3.1/04.VacationBooksList
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/04.VacationBooksList/bin/Debug/netcoreapp3.1/04.VacationBooksList.deps.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/04.VacationBooksList/bin/Debug/netcoreapp3.1/04.VacationBooksList.runtimeconfig.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/04.VacationBooksList/bin/Debug/netcoreapp3.1/04.VacationBooksList.runtimeconfig.dev.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/04.VacationBooksList/bin/Debug/netcoreapp3.1/04.VacationBooksList.dll
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/04.VacationBooksList/bin/Debug/netcoreapp3.1/04.VacationBooksList.pdb
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/04.VacationBooksList/obj/Debug/netcoreapp3.1/04.VacationBooksList.csproj.AssemblyReference.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/04.VacationBooksList/obj/Debug/netcoreapp3.1/04.VacationBooksList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/04.VacationBooksList/obj/Debug/netcoreapp3.1/04.VacationBooksList.AssemblyInfoInputs.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/04.VacationBooksList/obj/Debug/netcoreapp3.1/04.VacationBooksList.AssemblyInfo.cs
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/04.VacationBooksList/obj/Debug/netcoreapp3.1/04.VacationBooksList.csproj.CoreCompileInputs.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/04.VacationBooksList/obj/Debug/netcoreapp3.1/04.VacationBooksList.dll
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/04.VacationBooksList/obj/Debug/netcoreapp3.1/04.VacationBooksList.pdb
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/04.VacationBooksList/obj/Debug/netcoreapp3.1/04.VacationBooksList.genruntimeconfig.cache

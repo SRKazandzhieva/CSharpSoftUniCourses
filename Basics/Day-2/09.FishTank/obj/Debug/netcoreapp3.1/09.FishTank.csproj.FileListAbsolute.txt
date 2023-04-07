@@ -1,0 +1,14 @@
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/09.FishTank/bin/Debug/netcoreapp3.1/09.FishTank
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/09.FishTank/bin/Debug/netcoreapp3.1/09.FishTank.deps.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/09.FishTank/bin/Debug/netcoreapp3.1/09.FishTank.runtimeconfig.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/09.FishTank/bin/Debug/netcoreapp3.1/09.FishTank.runtimeconfig.dev.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/09.FishTank/bin/Debug/netcoreapp3.1/09.FishTank.dll
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/09.FishTank/bin/Debug/netcoreapp3.1/09.FishTank.pdb
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/09.FishTank/obj/Debug/netcoreapp3.1/09.FishTank.csproj.AssemblyReference.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/09.FishTank/obj/Debug/netcoreapp3.1/09.FishTank.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/09.FishTank/obj/Debug/netcoreapp3.1/09.FishTank.AssemblyInfoInputs.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/09.FishTank/obj/Debug/netcoreapp3.1/09.FishTank.AssemblyInfo.cs
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/09.FishTank/obj/Debug/netcoreapp3.1/09.FishTank.csproj.CoreCompileInputs.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/09.FishTank/obj/Debug/netcoreapp3.1/09.FishTank.dll
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/09.FishTank/obj/Debug/netcoreapp3.1/09.FishTank.pdb
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/09.FishTank/obj/Debug/netcoreapp3.1/09.FishTank.genruntimeconfig.cache

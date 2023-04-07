@@ -1,0 +1,14 @@
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/06.Repainting/bin/Debug/netcoreapp3.1/06.Repainting
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/06.Repainting/bin/Debug/netcoreapp3.1/06.Repainting.deps.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/06.Repainting/bin/Debug/netcoreapp3.1/06.Repainting.runtimeconfig.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/06.Repainting/bin/Debug/netcoreapp3.1/06.Repainting.runtimeconfig.dev.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/06.Repainting/bin/Debug/netcoreapp3.1/06.Repainting.dll
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/06.Repainting/bin/Debug/netcoreapp3.1/06.Repainting.pdb
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/06.Repainting/obj/Debug/netcoreapp3.1/06.Repainting.csproj.AssemblyReference.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/06.Repainting/obj/Debug/netcoreapp3.1/06.Repainting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/06.Repainting/obj/Debug/netcoreapp3.1/06.Repainting.AssemblyInfoInputs.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/06.Repainting/obj/Debug/netcoreapp3.1/06.Repainting.AssemblyInfo.cs
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/06.Repainting/obj/Debug/netcoreapp3.1/06.Repainting.csproj.CoreCompileInputs.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/06.Repainting/obj/Debug/netcoreapp3.1/06.Repainting.dll
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/06.Repainting/obj/Debug/netcoreapp3.1/06.Repainting.pdb
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/06.Repainting/obj/Debug/netcoreapp3.1/06.Repainting.genruntimeconfig.cache

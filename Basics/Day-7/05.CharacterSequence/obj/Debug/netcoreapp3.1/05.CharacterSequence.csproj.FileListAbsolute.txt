@@ -1,0 +1,14 @@
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/05.CharacterSequence/bin/Debug/netcoreapp3.1/05.CharacterSequence
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/05.CharacterSequence/bin/Debug/netcoreapp3.1/05.CharacterSequence.deps.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/05.CharacterSequence/bin/Debug/netcoreapp3.1/05.CharacterSequence.runtimeconfig.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/05.CharacterSequence/bin/Debug/netcoreapp3.1/05.CharacterSequence.runtimeconfig.dev.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/05.CharacterSequence/bin/Debug/netcoreapp3.1/05.CharacterSequence.dll
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/05.CharacterSequence/bin/Debug/netcoreapp3.1/05.CharacterSequence.pdb
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/05.CharacterSequence/obj/Debug/netcoreapp3.1/05.CharacterSequence.csproj.AssemblyReference.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/05.CharacterSequence/obj/Debug/netcoreapp3.1/05.CharacterSequence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/05.CharacterSequence/obj/Debug/netcoreapp3.1/05.CharacterSequence.AssemblyInfoInputs.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/05.CharacterSequence/obj/Debug/netcoreapp3.1/05.CharacterSequence.AssemblyInfo.cs
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/05.CharacterSequence/obj/Debug/netcoreapp3.1/05.CharacterSequence.csproj.CoreCompileInputs.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/05.CharacterSequence/obj/Debug/netcoreapp3.1/05.CharacterSequence.dll
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/05.CharacterSequence/obj/Debug/netcoreapp3.1/05.CharacterSequence.pdb
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/05.CharacterSequence/obj/Debug/netcoreapp3.1/05.CharacterSequence.genruntimeconfig.cache

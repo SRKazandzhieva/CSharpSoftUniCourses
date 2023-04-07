@@ -1,0 +1,14 @@
+/Users/stelakazandzhieva/Projects/03.ConditionalStatementsLab/03.EvenOrOdd/bin/Debug/netcoreapp3.1/03.EvenOrOdd
+/Users/stelakazandzhieva/Projects/03.ConditionalStatementsLab/03.EvenOrOdd/bin/Debug/netcoreapp3.1/03.EvenOrOdd.deps.json
+/Users/stelakazandzhieva/Projects/03.ConditionalStatementsLab/03.EvenOrOdd/bin/Debug/netcoreapp3.1/03.EvenOrOdd.runtimeconfig.json
+/Users/stelakazandzhieva/Projects/03.ConditionalStatementsLab/03.EvenOrOdd/bin/Debug/netcoreapp3.1/03.EvenOrOdd.runtimeconfig.dev.json
+/Users/stelakazandzhieva/Projects/03.ConditionalStatementsLab/03.EvenOrOdd/bin/Debug/netcoreapp3.1/03.EvenOrOdd.dll
+/Users/stelakazandzhieva/Projects/03.ConditionalStatementsLab/03.EvenOrOdd/bin/Debug/netcoreapp3.1/03.EvenOrOdd.pdb
+/Users/stelakazandzhieva/Projects/03.ConditionalStatementsLab/03.EvenOrOdd/obj/Debug/netcoreapp3.1/03.EvenOrOdd.csproj.AssemblyReference.cache
+/Users/stelakazandzhieva/Projects/03.ConditionalStatementsLab/03.EvenOrOdd/obj/Debug/netcoreapp3.1/03.EvenOrOdd.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stelakazandzhieva/Projects/03.ConditionalStatementsLab/03.EvenOrOdd/obj/Debug/netcoreapp3.1/03.EvenOrOdd.AssemblyInfoInputs.cache
+/Users/stelakazandzhieva/Projects/03.ConditionalStatementsLab/03.EvenOrOdd/obj/Debug/netcoreapp3.1/03.EvenOrOdd.AssemblyInfo.cs
+/Users/stelakazandzhieva/Projects/03.ConditionalStatementsLab/03.EvenOrOdd/obj/Debug/netcoreapp3.1/03.EvenOrOdd.csproj.CoreCompileInputs.cache
+/Users/stelakazandzhieva/Projects/03.ConditionalStatementsLab/03.EvenOrOdd/obj/Debug/netcoreapp3.1/03.EvenOrOdd.dll
+/Users/stelakazandzhieva/Projects/03.ConditionalStatementsLab/03.EvenOrOdd/obj/Debug/netcoreapp3.1/03.EvenOrOdd.pdb
+/Users/stelakazandzhieva/Projects/03.ConditionalStatementsLab/03.EvenOrOdd/obj/Debug/netcoreapp3.1/03.EvenOrOdd.genruntimeconfig.cache

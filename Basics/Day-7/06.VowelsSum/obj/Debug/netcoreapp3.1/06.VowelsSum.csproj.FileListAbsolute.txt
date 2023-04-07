@@ -1,0 +1,14 @@
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/06.VowelsSum/bin/Debug/netcoreapp3.1/06.VowelsSum
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/06.VowelsSum/bin/Debug/netcoreapp3.1/06.VowelsSum.deps.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/06.VowelsSum/bin/Debug/netcoreapp3.1/06.VowelsSum.runtimeconfig.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/06.VowelsSum/bin/Debug/netcoreapp3.1/06.VowelsSum.runtimeconfig.dev.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/06.VowelsSum/bin/Debug/netcoreapp3.1/06.VowelsSum.dll
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/06.VowelsSum/bin/Debug/netcoreapp3.1/06.VowelsSum.pdb
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/06.VowelsSum/obj/Debug/netcoreapp3.1/06.VowelsSum.csproj.AssemblyReference.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/06.VowelsSum/obj/Debug/netcoreapp3.1/06.VowelsSum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/06.VowelsSum/obj/Debug/netcoreapp3.1/06.VowelsSum.AssemblyInfoInputs.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/06.VowelsSum/obj/Debug/netcoreapp3.1/06.VowelsSum.AssemblyInfo.cs
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/06.VowelsSum/obj/Debug/netcoreapp3.1/06.VowelsSum.csproj.CoreCompileInputs.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/06.VowelsSum/obj/Debug/netcoreapp3.1/06.VowelsSum.dll
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/06.VowelsSum/obj/Debug/netcoreapp3.1/06.VowelsSum.pdb
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/06.VowelsSum/obj/Debug/netcoreapp3.1/06.VowelsSum.genruntimeconfig.cache

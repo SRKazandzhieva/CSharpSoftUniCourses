@@ -1,0 +1,14 @@
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-4/04.ConditionalStatementsExercise/03.TimePlus15Minutes/obj/Debug/netcoreapp3.1/03.TimePlus15Minutes.csproj.AssemblyReference.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-4/04.ConditionalStatementsExercise/03.TimePlus15Minutes/obj/Debug/netcoreapp3.1/03.TimePlus15Minutes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-4/04.ConditionalStatementsExercise/03.TimePlus15Minutes/obj/Debug/netcoreapp3.1/03.TimePlus15Minutes.AssemblyInfoInputs.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-4/04.ConditionalStatementsExercise/03.TimePlus15Minutes/obj/Debug/netcoreapp3.1/03.TimePlus15Minutes.AssemblyInfo.cs
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-4/04.ConditionalStatementsExercise/03.TimePlus15Minutes/obj/Debug/netcoreapp3.1/03.TimePlus15Minutes.csproj.CoreCompileInputs.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-4/04.ConditionalStatementsExercise/03.TimePlus15Minutes/bin/Debug/netcoreapp3.1/03.TimePlus15Minutes
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-4/04.ConditionalStatementsExercise/03.TimePlus15Minutes/bin/Debug/netcoreapp3.1/03.TimePlus15Minutes.deps.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-4/04.ConditionalStatementsExercise/03.TimePlus15Minutes/bin/Debug/netcoreapp3.1/03.TimePlus15Minutes.runtimeconfig.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-4/04.ConditionalStatementsExercise/03.TimePlus15Minutes/bin/Debug/netcoreapp3.1/03.TimePlus15Minutes.runtimeconfig.dev.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-4/04.ConditionalStatementsExercise/03.TimePlus15Minutes/bin/Debug/netcoreapp3.1/03.TimePlus15Minutes.dll
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-4/04.ConditionalStatementsExercise/03.TimePlus15Minutes/bin/Debug/netcoreapp3.1/03.TimePlus15Minutes.pdb
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-4/04.ConditionalStatementsExercise/03.TimePlus15Minutes/obj/Debug/netcoreapp3.1/03.TimePlus15Minutes.dll
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-4/04.ConditionalStatementsExercise/03.TimePlus15Minutes/obj/Debug/netcoreapp3.1/03.TimePlus15Minutes.pdb
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-4/04.ConditionalStatementsExercise/03.TimePlus15Minutes/obj/Debug/netcoreapp3.1/03.TimePlus15Minutes.genruntimeconfig.cache

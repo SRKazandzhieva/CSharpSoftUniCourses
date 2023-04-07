@@ -1,0 +1,14 @@
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-6/05.Journey/bin/Debug/netcoreapp3.1/05.Journey
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-6/05.Journey/bin/Debug/netcoreapp3.1/05.Journey.deps.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-6/05.Journey/bin/Debug/netcoreapp3.1/05.Journey.runtimeconfig.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-6/05.Journey/bin/Debug/netcoreapp3.1/05.Journey.runtimeconfig.dev.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-6/05.Journey/bin/Debug/netcoreapp3.1/05.Journey.dll
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-6/05.Journey/bin/Debug/netcoreapp3.1/05.Journey.pdb
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-6/05.Journey/obj/Debug/netcoreapp3.1/05.Journey.csproj.AssemblyReference.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-6/05.Journey/obj/Debug/netcoreapp3.1/05.Journey.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-6/05.Journey/obj/Debug/netcoreapp3.1/05.Journey.AssemblyInfoInputs.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-6/05.Journey/obj/Debug/netcoreapp3.1/05.Journey.AssemblyInfo.cs
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-6/05.Journey/obj/Debug/netcoreapp3.1/05.Journey.csproj.CoreCompileInputs.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-6/05.Journey/obj/Debug/netcoreapp3.1/05.Journey.dll
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-6/05.Journey/obj/Debug/netcoreapp3.1/05.Journey.pdb
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-6/05.Journey/obj/Debug/netcoreapp3.1/05.Journey.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-8/06.Oscars/bin/Debug/netcoreapp3.1/06.Oscars
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-8/06.Oscars/bin/Debug/netcoreapp3.1/06.Oscars.deps.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-8/06.Oscars/bin/Debug/netcoreapp3.1/06.Oscars.runtimeconfig.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-8/06.Oscars/bin/Debug/netcoreapp3.1/06.Oscars.runtimeconfig.dev.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-8/06.Oscars/bin/Debug/netcoreapp3.1/06.Oscars.dll
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-8/06.Oscars/bin/Debug/netcoreapp3.1/06.Oscars.pdb
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-8/06.Oscars/obj/Debug/netcoreapp3.1/06.Oscars.csproj.AssemblyReference.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-8/06.Oscars/obj/Debug/netcoreapp3.1/06.Oscars.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-8/06.Oscars/obj/Debug/netcoreapp3.1/06.Oscars.AssemblyInfoInputs.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-8/06.Oscars/obj/Debug/netcoreapp3.1/06.Oscars.AssemblyInfo.cs
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-8/06.Oscars/obj/Debug/netcoreapp3.1/06.Oscars.csproj.CoreCompileInputs.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-8/06.Oscars/obj/Debug/netcoreapp3.1/06.Oscars.dll
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-8/06.Oscars/obj/Debug/netcoreapp3.1/06.Oscars.pdb
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-8/06.Oscars/obj/Debug/netcoreapp3.1/06.Oscars.genruntimeconfig.cache

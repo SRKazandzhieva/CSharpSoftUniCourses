@@ -1,0 +1,14 @@
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-8/08.TennisRanklist/bin/Debug/netcoreapp3.1/08.TennisRanklist
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-8/08.TennisRanklist/bin/Debug/netcoreapp3.1/08.TennisRanklist.deps.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-8/08.TennisRanklist/bin/Debug/netcoreapp3.1/08.TennisRanklist.runtimeconfig.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-8/08.TennisRanklist/bin/Debug/netcoreapp3.1/08.TennisRanklist.runtimeconfig.dev.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-8/08.TennisRanklist/bin/Debug/netcoreapp3.1/08.TennisRanklist.dll
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-8/08.TennisRanklist/bin/Debug/netcoreapp3.1/08.TennisRanklist.pdb
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-8/08.TennisRanklist/obj/Debug/netcoreapp3.1/08.TennisRanklist.csproj.AssemblyReference.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-8/08.TennisRanklist/obj/Debug/netcoreapp3.1/08.TennisRanklist.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-8/08.TennisRanklist/obj/Debug/netcoreapp3.1/08.TennisRanklist.AssemblyInfoInputs.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-8/08.TennisRanklist/obj/Debug/netcoreapp3.1/08.TennisRanklist.AssemblyInfo.cs
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-8/08.TennisRanklist/obj/Debug/netcoreapp3.1/08.TennisRanklist.csproj.CoreCompileInputs.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-8/08.TennisRanklist/obj/Debug/netcoreapp3.1/08.TennisRanklist.dll
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-8/08.TennisRanklist/obj/Debug/netcoreapp3.1/08.TennisRanklist.pdb
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-8/08.TennisRanklist/obj/Debug/netcoreapp3.1/08.TennisRanklist.genruntimeconfig.cache

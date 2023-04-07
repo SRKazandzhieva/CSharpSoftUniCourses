@@ -1,0 +1,14 @@
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-10/02.ExamPreparation/bin/Debug/netcoreapp3.1/02.ExamPreparation
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-10/02.ExamPreparation/bin/Debug/netcoreapp3.1/02.ExamPreparation.deps.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-10/02.ExamPreparation/bin/Debug/netcoreapp3.1/02.ExamPreparation.runtimeconfig.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-10/02.ExamPreparation/bin/Debug/netcoreapp3.1/02.ExamPreparation.runtimeconfig.dev.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-10/02.ExamPreparation/bin/Debug/netcoreapp3.1/02.ExamPreparation.dll
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-10/02.ExamPreparation/bin/Debug/netcoreapp3.1/02.ExamPreparation.pdb
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-10/02.ExamPreparation/obj/Debug/netcoreapp3.1/02.ExamPreparation.csproj.AssemblyReference.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-10/02.ExamPreparation/obj/Debug/netcoreapp3.1/02.ExamPreparation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-10/02.ExamPreparation/obj/Debug/netcoreapp3.1/02.ExamPreparation.AssemblyInfoInputs.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-10/02.ExamPreparation/obj/Debug/netcoreapp3.1/02.ExamPreparation.AssemblyInfo.cs
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-10/02.ExamPreparation/obj/Debug/netcoreapp3.1/02.ExamPreparation.csproj.CoreCompileInputs.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-10/02.ExamPreparation/obj/Debug/netcoreapp3.1/02.ExamPreparation.dll
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-10/02.ExamPreparation/obj/Debug/netcoreapp3.1/02.ExamPreparation.pdb
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-10/02.ExamPreparation/obj/Debug/netcoreapp3.1/02.ExamPreparation.genruntimeconfig.cache

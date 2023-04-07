@@ -1,0 +1,14 @@
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-6/03.NewHouse/bin/Debug/netcoreapp3.1/03.NewHouse
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-6/03.NewHouse/bin/Debug/netcoreapp3.1/03.NewHouse.deps.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-6/03.NewHouse/bin/Debug/netcoreapp3.1/03.NewHouse.runtimeconfig.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-6/03.NewHouse/bin/Debug/netcoreapp3.1/03.NewHouse.runtimeconfig.dev.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-6/03.NewHouse/bin/Debug/netcoreapp3.1/03.NewHouse.dll
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-6/03.NewHouse/bin/Debug/netcoreapp3.1/03.NewHouse.pdb
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-6/03.NewHouse/obj/Debug/netcoreapp3.1/03.NewHouse.csproj.AssemblyReference.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-6/03.NewHouse/obj/Debug/netcoreapp3.1/03.NewHouse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-6/03.NewHouse/obj/Debug/netcoreapp3.1/03.NewHouse.AssemblyInfoInputs.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-6/03.NewHouse/obj/Debug/netcoreapp3.1/03.NewHouse.AssemblyInfo.cs
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-6/03.NewHouse/obj/Debug/netcoreapp3.1/03.NewHouse.csproj.CoreCompileInputs.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-6/03.NewHouse/obj/Debug/netcoreapp3.1/03.NewHouse.dll
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-6/03.NewHouse/obj/Debug/netcoreapp3.1/03.NewHouse.pdb
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-6/03.NewHouse/obj/Debug/netcoreapp3.1/03.NewHouse.genruntimeconfig.cache

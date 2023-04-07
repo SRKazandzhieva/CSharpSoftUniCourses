@@ -1,0 +1,14 @@
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-8/03.Histogram/obj/Debug/netcoreapp3.1/03.Histogram.csproj.AssemblyReference.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-8/03.Histogram/obj/Debug/netcoreapp3.1/03.Histogram.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-8/03.Histogram/obj/Debug/netcoreapp3.1/03.Histogram.AssemblyInfoInputs.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-8/03.Histogram/obj/Debug/netcoreapp3.1/03.Histogram.AssemblyInfo.cs
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-8/03.Histogram/obj/Debug/netcoreapp3.1/03.Histogram.csproj.CoreCompileInputs.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-8/03.Histogram/bin/Debug/netcoreapp3.1/03.Histogram
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-8/03.Histogram/bin/Debug/netcoreapp3.1/03.Histogram.deps.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-8/03.Histogram/bin/Debug/netcoreapp3.1/03.Histogram.runtimeconfig.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-8/03.Histogram/bin/Debug/netcoreapp3.1/03.Histogram.runtimeconfig.dev.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-8/03.Histogram/bin/Debug/netcoreapp3.1/03.Histogram.dll
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-8/03.Histogram/bin/Debug/netcoreapp3.1/03.Histogram.pdb
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-8/03.Histogram/obj/Debug/netcoreapp3.1/03.Histogram.dll
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-8/03.Histogram/obj/Debug/netcoreapp3.1/03.Histogram.pdb
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-8/03.Histogram/obj/Debug/netcoreapp3.1/03.Histogram.genruntimeconfig.cache

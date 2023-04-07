@@ -1,0 +1,14 @@
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-9/08.Graduation/bin/Debug/netcoreapp3.1/08.Graduation
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-9/08.Graduation/bin/Debug/netcoreapp3.1/08.Graduation.deps.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-9/08.Graduation/bin/Debug/netcoreapp3.1/08.Graduation.runtimeconfig.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-9/08.Graduation/bin/Debug/netcoreapp3.1/08.Graduation.runtimeconfig.dev.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-9/08.Graduation/bin/Debug/netcoreapp3.1/08.Graduation.dll
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-9/08.Graduation/bin/Debug/netcoreapp3.1/08.Graduation.pdb
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-9/08.Graduation/obj/Debug/netcoreapp3.1/08.Graduation.csproj.AssemblyReference.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-9/08.Graduation/obj/Debug/netcoreapp3.1/08.Graduation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-9/08.Graduation/obj/Debug/netcoreapp3.1/08.Graduation.AssemblyInfoInputs.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-9/08.Graduation/obj/Debug/netcoreapp3.1/08.Graduation.AssemblyInfo.cs
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-9/08.Graduation/obj/Debug/netcoreapp3.1/08.Graduation.csproj.CoreCompileInputs.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-9/08.Graduation/obj/Debug/netcoreapp3.1/08.Graduation.dll
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-9/08.Graduation/obj/Debug/netcoreapp3.1/08.Graduation.pdb
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-9/08.Graduation/obj/Debug/netcoreapp3.1/08.Graduation.genruntimeconfig.cache

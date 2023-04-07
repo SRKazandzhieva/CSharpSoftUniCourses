@@ -1,0 +1,14 @@
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-6/06.OperationsBetweenNumbers/bin/Debug/netcoreapp3.1/06.OperationsBetweenNumbers
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-6/06.OperationsBetweenNumbers/bin/Debug/netcoreapp3.1/06.OperationsBetweenNumbers.deps.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-6/06.OperationsBetweenNumbers/bin/Debug/netcoreapp3.1/06.OperationsBetweenNumbers.runtimeconfig.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-6/06.OperationsBetweenNumbers/bin/Debug/netcoreapp3.1/06.OperationsBetweenNumbers.runtimeconfig.dev.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-6/06.OperationsBetweenNumbers/bin/Debug/netcoreapp3.1/06.OperationsBetweenNumbers.dll
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-6/06.OperationsBetweenNumbers/bin/Debug/netcoreapp3.1/06.OperationsBetweenNumbers.pdb
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-6/06.OperationsBetweenNumbers/obj/Debug/netcoreapp3.1/06.OperationsBetweenNumbers.csproj.AssemblyReference.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-6/06.OperationsBetweenNumbers/obj/Debug/netcoreapp3.1/06.OperationsBetweenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-6/06.OperationsBetweenNumbers/obj/Debug/netcoreapp3.1/06.OperationsBetweenNumbers.AssemblyInfoInputs.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-6/06.OperationsBetweenNumbers/obj/Debug/netcoreapp3.1/06.OperationsBetweenNumbers.AssemblyInfo.cs
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-6/06.OperationsBetweenNumbers/obj/Debug/netcoreapp3.1/06.OperationsBetweenNumbers.csproj.CoreCompileInputs.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-6/06.OperationsBetweenNumbers/obj/Debug/netcoreapp3.1/06.OperationsBetweenNumbers.dll
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-6/06.OperationsBetweenNumbers/obj/Debug/netcoreapp3.1/06.OperationsBetweenNumbers.pdb
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-6/06.OperationsBetweenNumbers/obj/Debug/netcoreapp3.1/06.OperationsBetweenNumbers.genruntimeconfig.cache

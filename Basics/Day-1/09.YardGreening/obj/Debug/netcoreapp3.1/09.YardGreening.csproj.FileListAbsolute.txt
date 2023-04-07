@@ -1,0 +1,14 @@
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni/01.FirstStepsInProgramingLab/09.YardGreening/bin/Debug/netcoreapp3.1/09.YardGreening
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni/01.FirstStepsInProgramingLab/09.YardGreening/bin/Debug/netcoreapp3.1/09.YardGreening.deps.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni/01.FirstStepsInProgramingLab/09.YardGreening/bin/Debug/netcoreapp3.1/09.YardGreening.runtimeconfig.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni/01.FirstStepsInProgramingLab/09.YardGreening/bin/Debug/netcoreapp3.1/09.YardGreening.runtimeconfig.dev.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni/01.FirstStepsInProgramingLab/09.YardGreening/bin/Debug/netcoreapp3.1/09.YardGreening.dll
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni/01.FirstStepsInProgramingLab/09.YardGreening/bin/Debug/netcoreapp3.1/09.YardGreening.pdb
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni/01.FirstStepsInProgramingLab/09.YardGreening/obj/Debug/netcoreapp3.1/09.YardGreening.csproj.AssemblyReference.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni/01.FirstStepsInProgramingLab/09.YardGreening/obj/Debug/netcoreapp3.1/09.YardGreening.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni/01.FirstStepsInProgramingLab/09.YardGreening/obj/Debug/netcoreapp3.1/09.YardGreening.AssemblyInfoInputs.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni/01.FirstStepsInProgramingLab/09.YardGreening/obj/Debug/netcoreapp3.1/09.YardGreening.AssemblyInfo.cs
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni/01.FirstStepsInProgramingLab/09.YardGreening/obj/Debug/netcoreapp3.1/09.YardGreening.csproj.CoreCompileInputs.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni/01.FirstStepsInProgramingLab/09.YardGreening/obj/Debug/netcoreapp3.1/09.YardGreening.dll
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni/01.FirstStepsInProgramingLab/09.YardGreening/obj/Debug/netcoreapp3.1/09.YardGreening.pdb
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni/01.FirstStepsInProgramingLab/09.YardGreening/obj/Debug/netcoreapp3.1/09.YardGreening.genruntimeconfig.cache

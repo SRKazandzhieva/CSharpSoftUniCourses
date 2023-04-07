@@ -1,0 +1,14 @@
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni/01.FirstStepsInProgramingLab/03.RectangleArea/bin/Debug/netcoreapp3.1/03.RectangleArea
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni/01.FirstStepsInProgramingLab/03.RectangleArea/bin/Debug/netcoreapp3.1/03.RectangleArea.deps.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni/01.FirstStepsInProgramingLab/03.RectangleArea/bin/Debug/netcoreapp3.1/03.RectangleArea.runtimeconfig.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni/01.FirstStepsInProgramingLab/03.RectangleArea/bin/Debug/netcoreapp3.1/03.RectangleArea.runtimeconfig.dev.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni/01.FirstStepsInProgramingLab/03.RectangleArea/bin/Debug/netcoreapp3.1/03.RectangleArea.dll
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni/01.FirstStepsInProgramingLab/03.RectangleArea/bin/Debug/netcoreapp3.1/03.RectangleArea.pdb
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni/01.FirstStepsInProgramingLab/03.RectangleArea/obj/Debug/netcoreapp3.1/03.RectangleArea.csproj.AssemblyReference.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni/01.FirstStepsInProgramingLab/03.RectangleArea/obj/Debug/netcoreapp3.1/03.RectangleArea.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni/01.FirstStepsInProgramingLab/03.RectangleArea/obj/Debug/netcoreapp3.1/03.RectangleArea.AssemblyInfoInputs.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni/01.FirstStepsInProgramingLab/03.RectangleArea/obj/Debug/netcoreapp3.1/03.RectangleArea.AssemblyInfo.cs
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni/01.FirstStepsInProgramingLab/03.RectangleArea/obj/Debug/netcoreapp3.1/03.RectangleArea.csproj.CoreCompileInputs.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni/01.FirstStepsInProgramingLab/03.RectangleArea/obj/Debug/netcoreapp3.1/03.RectangleArea.dll
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni/01.FirstStepsInProgramingLab/03.RectangleArea/obj/Debug/netcoreapp3.1/03.RectangleArea.pdb
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni/01.FirstStepsInProgramingLab/03.RectangleArea/obj/Debug/netcoreapp3.1/03.RectangleArea.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni/01.FirstStepsInProgramingLab/04.InchestoCentimeters/bin/Debug/netcoreapp3.1/04.InchestoCentimeters
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni/01.FirstStepsInProgramingLab/04.InchestoCentimeters/bin/Debug/netcoreapp3.1/04.InchestoCentimeters.deps.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni/01.FirstStepsInProgramingLab/04.InchestoCentimeters/bin/Debug/netcoreapp3.1/04.InchestoCentimeters.runtimeconfig.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni/01.FirstStepsInProgramingLab/04.InchestoCentimeters/bin/Debug/netcoreapp3.1/04.InchestoCentimeters.runtimeconfig.dev.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni/01.FirstStepsInProgramingLab/04.InchestoCentimeters/bin/Debug/netcoreapp3.1/04.InchestoCentimeters.dll
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni/01.FirstStepsInProgramingLab/04.InchestoCentimeters/bin/Debug/netcoreapp3.1/04.InchestoCentimeters.pdb
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni/01.FirstStepsInProgramingLab/04.InchestoCentimeters/obj/Debug/netcoreapp3.1/04.InchestoCentimeters.csproj.AssemblyReference.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni/01.FirstStepsInProgramingLab/04.InchestoCentimeters/obj/Debug/netcoreapp3.1/04.InchestoCentimeters.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni/01.FirstStepsInProgramingLab/04.InchestoCentimeters/obj/Debug/netcoreapp3.1/04.InchestoCentimeters.AssemblyInfoInputs.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni/01.FirstStepsInProgramingLab/04.InchestoCentimeters/obj/Debug/netcoreapp3.1/04.InchestoCentimeters.AssemblyInfo.cs
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni/01.FirstStepsInProgramingLab/04.InchestoCentimeters/obj/Debug/netcoreapp3.1/04.InchestoCentimeters.csproj.CoreCompileInputs.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni/01.FirstStepsInProgramingLab/04.InchestoCentimeters/obj/Debug/netcoreapp3.1/04.InchestoCentimeters.dll
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni/01.FirstStepsInProgramingLab/04.InchestoCentimeters/obj/Debug/netcoreapp3.1/04.InchestoCentimeters.pdb
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni/01.FirstStepsInProgramingLab/04.InchestoCentimeters/obj/Debug/netcoreapp3.1/04.InchestoCentimeters.genruntimeconfig.cache

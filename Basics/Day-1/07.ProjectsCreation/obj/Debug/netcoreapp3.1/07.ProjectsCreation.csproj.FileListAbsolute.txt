@@ -1,0 +1,14 @@
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni/01.FirstStepsInProgramingLab/07.ProjectsCreation/bin/Debug/netcoreapp3.1/07.ProjectsCreation
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni/01.FirstStepsInProgramingLab/07.ProjectsCreation/bin/Debug/netcoreapp3.1/07.ProjectsCreation.deps.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni/01.FirstStepsInProgramingLab/07.ProjectsCreation/bin/Debug/netcoreapp3.1/07.ProjectsCreation.runtimeconfig.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni/01.FirstStepsInProgramingLab/07.ProjectsCreation/bin/Debug/netcoreapp3.1/07.ProjectsCreation.runtimeconfig.dev.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni/01.FirstStepsInProgramingLab/07.ProjectsCreation/bin/Debug/netcoreapp3.1/07.ProjectsCreation.dll
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni/01.FirstStepsInProgramingLab/07.ProjectsCreation/bin/Debug/netcoreapp3.1/07.ProjectsCreation.pdb
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni/01.FirstStepsInProgramingLab/07.ProjectsCreation/obj/Debug/netcoreapp3.1/07.ProjectsCreation.csproj.AssemblyReference.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni/01.FirstStepsInProgramingLab/07.ProjectsCreation/obj/Debug/netcoreapp3.1/07.ProjectsCreation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni/01.FirstStepsInProgramingLab/07.ProjectsCreation/obj/Debug/netcoreapp3.1/07.ProjectsCreation.AssemblyInfoInputs.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni/01.FirstStepsInProgramingLab/07.ProjectsCreation/obj/Debug/netcoreapp3.1/07.ProjectsCreation.AssemblyInfo.cs
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni/01.FirstStepsInProgramingLab/07.ProjectsCreation/obj/Debug/netcoreapp3.1/07.ProjectsCreation.csproj.CoreCompileInputs.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni/01.FirstStepsInProgramingLab/07.ProjectsCreation/obj/Debug/netcoreapp3.1/07.ProjectsCreation.dll
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni/01.FirstStepsInProgramingLab/07.ProjectsCreation/obj/Debug/netcoreapp3.1/07.ProjectsCreation.pdb
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni/01.FirstStepsInProgramingLab/07.ProjectsCreation/obj/Debug/netcoreapp3.1/07.ProjectsCreation.genruntimeconfig.cache

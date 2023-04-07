@@ -1,0 +1,14 @@
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-5/02.WeekendOrWorkingDay/bin/Debug/netcoreapp3.1/02.WeekendOrWorkingDay
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-5/02.WeekendOrWorkingDay/bin/Debug/netcoreapp3.1/02.WeekendOrWorkingDay.deps.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-5/02.WeekendOrWorkingDay/bin/Debug/netcoreapp3.1/02.WeekendOrWorkingDay.runtimeconfig.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-5/02.WeekendOrWorkingDay/bin/Debug/netcoreapp3.1/02.WeekendOrWorkingDay.runtimeconfig.dev.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-5/02.WeekendOrWorkingDay/bin/Debug/netcoreapp3.1/02.WeekendOrWorkingDay.dll
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-5/02.WeekendOrWorkingDay/bin/Debug/netcoreapp3.1/02.WeekendOrWorkingDay.pdb
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-5/02.WeekendOrWorkingDay/obj/Debug/netcoreapp3.1/02.WeekendOrWorkingDay.csproj.AssemblyReference.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-5/02.WeekendOrWorkingDay/obj/Debug/netcoreapp3.1/02.WeekendOrWorkingDay.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-5/02.WeekendOrWorkingDay/obj/Debug/netcoreapp3.1/02.WeekendOrWorkingDay.AssemblyInfoInputs.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-5/02.WeekendOrWorkingDay/obj/Debug/netcoreapp3.1/02.WeekendOrWorkingDay.AssemblyInfo.cs
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-5/02.WeekendOrWorkingDay/obj/Debug/netcoreapp3.1/02.WeekendOrWorkingDay.csproj.CoreCompileInputs.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-5/02.WeekendOrWorkingDay/obj/Debug/netcoreapp3.1/02.WeekendOrWorkingDay.dll
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-5/02.WeekendOrWorkingDay/obj/Debug/netcoreapp3.1/02.WeekendOrWorkingDay.pdb
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-5/02.WeekendOrWorkingDay/obj/Debug/netcoreapp3.1/02.WeekendOrWorkingDay.genruntimeconfig.cache

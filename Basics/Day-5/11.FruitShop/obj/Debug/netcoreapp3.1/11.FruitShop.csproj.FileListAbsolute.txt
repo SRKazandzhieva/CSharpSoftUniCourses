@@ -1,0 +1,14 @@
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-5/11.FruitShop/obj/Debug/netcoreapp3.1/11.FruitShop.csproj.AssemblyReference.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-5/11.FruitShop/obj/Debug/netcoreapp3.1/11.FruitShop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-5/11.FruitShop/obj/Debug/netcoreapp3.1/11.FruitShop.AssemblyInfoInputs.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-5/11.FruitShop/obj/Debug/netcoreapp3.1/11.FruitShop.AssemblyInfo.cs
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-5/11.FruitShop/obj/Debug/netcoreapp3.1/11.FruitShop.csproj.CoreCompileInputs.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-5/11.FruitShop/bin/Debug/netcoreapp3.1/11.FruitShop
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-5/11.FruitShop/bin/Debug/netcoreapp3.1/11.FruitShop.deps.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-5/11.FruitShop/bin/Debug/netcoreapp3.1/11.FruitShop.runtimeconfig.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-5/11.FruitShop/bin/Debug/netcoreapp3.1/11.FruitShop.runtimeconfig.dev.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-5/11.FruitShop/bin/Debug/netcoreapp3.1/11.FruitShop.dll
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-5/11.FruitShop/bin/Debug/netcoreapp3.1/11.FruitShop.pdb
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-5/11.FruitShop/obj/Debug/netcoreapp3.1/11.FruitShop.dll
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-5/11.FruitShop/obj/Debug/netcoreapp3.1/11.FruitShop.pdb
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-5/11.FruitShop/obj/Debug/netcoreapp3.1/11.FruitShop.genruntimeconfig.cache

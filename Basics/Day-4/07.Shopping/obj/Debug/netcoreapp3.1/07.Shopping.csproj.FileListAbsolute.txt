@@ -1,0 +1,14 @@
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-4/07.Shopping/bin/Debug/netcoreapp3.1/07.Shopping
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-4/07.Shopping/bin/Debug/netcoreapp3.1/07.Shopping.deps.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-4/07.Shopping/bin/Debug/netcoreapp3.1/07.Shopping.runtimeconfig.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-4/07.Shopping/bin/Debug/netcoreapp3.1/07.Shopping.runtimeconfig.dev.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-4/07.Shopping/bin/Debug/netcoreapp3.1/07.Shopping.dll
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-4/07.Shopping/bin/Debug/netcoreapp3.1/07.Shopping.pdb
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-4/07.Shopping/obj/Debug/netcoreapp3.1/07.Shopping.csproj.AssemblyReference.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-4/07.Shopping/obj/Debug/netcoreapp3.1/07.Shopping.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-4/07.Shopping/obj/Debug/netcoreapp3.1/07.Shopping.AssemblyInfoInputs.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-4/07.Shopping/obj/Debug/netcoreapp3.1/07.Shopping.AssemblyInfo.cs
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-4/07.Shopping/obj/Debug/netcoreapp3.1/07.Shopping.csproj.CoreCompileInputs.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-4/07.Shopping/obj/Debug/netcoreapp3.1/07.Shopping.dll
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-4/07.Shopping/obj/Debug/netcoreapp3.1/07.Shopping.pdb
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-4/07.Shopping/obj/Debug/netcoreapp3.1/07.Shopping.genruntimeconfig.cache

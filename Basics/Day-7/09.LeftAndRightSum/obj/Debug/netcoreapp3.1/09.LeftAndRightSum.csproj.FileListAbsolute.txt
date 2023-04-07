@@ -1,0 +1,14 @@
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/09.LeftAndRightSum/bin/Debug/netcoreapp3.1/09.LeftAndRightSum
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/09.LeftAndRightSum/bin/Debug/netcoreapp3.1/09.LeftAndRightSum.deps.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/09.LeftAndRightSum/bin/Debug/netcoreapp3.1/09.LeftAndRightSum.runtimeconfig.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/09.LeftAndRightSum/bin/Debug/netcoreapp3.1/09.LeftAndRightSum.runtimeconfig.dev.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/09.LeftAndRightSum/bin/Debug/netcoreapp3.1/09.LeftAndRightSum.dll
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/09.LeftAndRightSum/bin/Debug/netcoreapp3.1/09.LeftAndRightSum.pdb
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/09.LeftAndRightSum/obj/Debug/netcoreapp3.1/09.LeftAndRightSum.csproj.AssemblyReference.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/09.LeftAndRightSum/obj/Debug/netcoreapp3.1/09.LeftAndRightSum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/09.LeftAndRightSum/obj/Debug/netcoreapp3.1/09.LeftAndRightSum.AssemblyInfoInputs.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/09.LeftAndRightSum/obj/Debug/netcoreapp3.1/09.LeftAndRightSum.AssemblyInfo.cs
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/09.LeftAndRightSum/obj/Debug/netcoreapp3.1/09.LeftAndRightSum.csproj.CoreCompileInputs.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/09.LeftAndRightSum/obj/Debug/netcoreapp3.1/09.LeftAndRightSum.dll
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/09.LeftAndRightSum/obj/Debug/netcoreapp3.1/09.LeftAndRightSum.pdb
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/09.LeftAndRightSum/obj/Debug/netcoreapp3.1/09.LeftAndRightSum.genruntimeconfig.cache

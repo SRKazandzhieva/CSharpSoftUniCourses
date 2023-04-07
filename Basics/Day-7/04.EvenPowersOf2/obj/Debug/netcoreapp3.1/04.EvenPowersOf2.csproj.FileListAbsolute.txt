@@ -1,0 +1,14 @@
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/04.EvenPowersOf2/bin/Debug/netcoreapp3.1/04.EvenPowersOf2
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/04.EvenPowersOf2/bin/Debug/netcoreapp3.1/04.EvenPowersOf2.deps.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/04.EvenPowersOf2/bin/Debug/netcoreapp3.1/04.EvenPowersOf2.runtimeconfig.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/04.EvenPowersOf2/bin/Debug/netcoreapp3.1/04.EvenPowersOf2.runtimeconfig.dev.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/04.EvenPowersOf2/bin/Debug/netcoreapp3.1/04.EvenPowersOf2.dll
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/04.EvenPowersOf2/bin/Debug/netcoreapp3.1/04.EvenPowersOf2.pdb
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/04.EvenPowersOf2/obj/Debug/netcoreapp3.1/04.EvenPowersOf2.csproj.AssemblyReference.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/04.EvenPowersOf2/obj/Debug/netcoreapp3.1/04.EvenPowersOf2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/04.EvenPowersOf2/obj/Debug/netcoreapp3.1/04.EvenPowersOf2.AssemblyInfoInputs.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/04.EvenPowersOf2/obj/Debug/netcoreapp3.1/04.EvenPowersOf2.AssemblyInfo.cs
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/04.EvenPowersOf2/obj/Debug/netcoreapp3.1/04.EvenPowersOf2.csproj.CoreCompileInputs.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/04.EvenPowersOf2/obj/Debug/netcoreapp3.1/04.EvenPowersOf2.dll
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/04.EvenPowersOf2/obj/Debug/netcoreapp3.1/04.EvenPowersOf2.pdb
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/04.EvenPowersOf2/obj/Debug/netcoreapp3.1/04.EvenPowersOf2.genruntimeconfig.cache

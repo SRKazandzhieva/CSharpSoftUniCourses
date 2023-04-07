@@ -1,0 +1,14 @@
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/05.SuppliesforSchool/bin/Debug/netcoreapp3.1/05.SuppliesforSchool
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/05.SuppliesforSchool/bin/Debug/netcoreapp3.1/05.SuppliesforSchool.deps.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/05.SuppliesforSchool/bin/Debug/netcoreapp3.1/05.SuppliesforSchool.runtimeconfig.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/05.SuppliesforSchool/bin/Debug/netcoreapp3.1/05.SuppliesforSchool.runtimeconfig.dev.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/05.SuppliesforSchool/bin/Debug/netcoreapp3.1/05.SuppliesforSchool.dll
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/05.SuppliesforSchool/bin/Debug/netcoreapp3.1/05.SuppliesforSchool.pdb
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/05.SuppliesforSchool/obj/Debug/netcoreapp3.1/05.SuppliesforSchool.csproj.AssemblyReference.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/05.SuppliesforSchool/obj/Debug/netcoreapp3.1/05.SuppliesforSchool.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/05.SuppliesforSchool/obj/Debug/netcoreapp3.1/05.SuppliesforSchool.AssemblyInfoInputs.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/05.SuppliesforSchool/obj/Debug/netcoreapp3.1/05.SuppliesforSchool.AssemblyInfo.cs
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/05.SuppliesforSchool/obj/Debug/netcoreapp3.1/05.SuppliesforSchool.csproj.CoreCompileInputs.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/05.SuppliesforSchool/obj/Debug/netcoreapp3.1/05.SuppliesforSchool.dll
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/05.SuppliesforSchool/obj/Debug/netcoreapp3.1/05.SuppliesforSchool.pdb
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/05.SuppliesforSchool/obj/Debug/netcoreapp3.1/05.SuppliesforSchool.genruntimeconfig.cache

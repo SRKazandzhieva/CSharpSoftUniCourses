@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{A4EAAA21-C520-49E9-9E49-3A412295A993}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.01.HelloSoftUni PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="01.FirstStepsInProgramingLab" expanded="True">
+            <Node name="01.HelloSoftUni" expanded="True" />
+            <Node name="02.Nums1To10" expanded="True" />
+            <Node name="03.RectangleArea" expanded="True" />
+            <Node name="04.InchestoCentimeters" expanded="True" />
+            <Node name="05.GreetingbyName" expanded="True" />
+            <Node name="06.ConcatenateData" expanded="True" />
+            <Node name="07.ProjectsCreation" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="08.PetShop" expanded="True" />
+            <Node name="09.YardGreening" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

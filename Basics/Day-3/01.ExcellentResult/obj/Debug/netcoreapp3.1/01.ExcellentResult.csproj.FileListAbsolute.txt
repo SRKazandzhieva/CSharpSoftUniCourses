@@ -1,0 +1,14 @@
+/Users/stelakazandzhieva/Projects/03.ConditionalStatementsLab/01.ExcellentResult/obj/Debug/netcoreapp3.1/01.ExcellentResult.csproj.AssemblyReference.cache
+/Users/stelakazandzhieva/Projects/03.ConditionalStatementsLab/01.ExcellentResult/obj/Debug/netcoreapp3.1/01.ExcellentResult.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stelakazandzhieva/Projects/03.ConditionalStatementsLab/01.ExcellentResult/obj/Debug/netcoreapp3.1/01.ExcellentResult.AssemblyInfoInputs.cache
+/Users/stelakazandzhieva/Projects/03.ConditionalStatementsLab/01.ExcellentResult/obj/Debug/netcoreapp3.1/01.ExcellentResult.AssemblyInfo.cs
+/Users/stelakazandzhieva/Projects/03.ConditionalStatementsLab/01.ExcellentResult/obj/Debug/netcoreapp3.1/01.ExcellentResult.csproj.CoreCompileInputs.cache
+/Users/stelakazandzhieva/Projects/03.ConditionalStatementsLab/01.ExcellentResult/bin/Debug/netcoreapp3.1/01.ExcellentResult
+/Users/stelakazandzhieva/Projects/03.ConditionalStatementsLab/01.ExcellentResult/bin/Debug/netcoreapp3.1/01.ExcellentResult.deps.json
+/Users/stelakazandzhieva/Projects/03.ConditionalStatementsLab/01.ExcellentResult/bin/Debug/netcoreapp3.1/01.ExcellentResult.runtimeconfig.json
+/Users/stelakazandzhieva/Projects/03.ConditionalStatementsLab/01.ExcellentResult/bin/Debug/netcoreapp3.1/01.ExcellentResult.runtimeconfig.dev.json
+/Users/stelakazandzhieva/Projects/03.ConditionalStatementsLab/01.ExcellentResult/bin/Debug/netcoreapp3.1/01.ExcellentResult.dll
+/Users/stelakazandzhieva/Projects/03.ConditionalStatementsLab/01.ExcellentResult/bin/Debug/netcoreapp3.1/01.ExcellentResult.pdb
+/Users/stelakazandzhieva/Projects/03.ConditionalStatementsLab/01.ExcellentResult/obj/Debug/netcoreapp3.1/01.ExcellentResult.dll
+/Users/stelakazandzhieva/Projects/03.ConditionalStatementsLab/01.ExcellentResult/obj/Debug/netcoreapp3.1/01.ExcellentResult.pdb
+/Users/stelakazandzhieva/Projects/03.ConditionalStatementsLab/01.ExcellentResult/obj/Debug/netcoreapp3.1/01.ExcellentResult.genruntimeconfig.cache

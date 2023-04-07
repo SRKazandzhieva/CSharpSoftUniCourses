@@ -1,0 +1,14 @@
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-6/08.OnTimeForTheExam/bin/Debug/netcoreapp3.1/08.OnTimeForTheExam
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-6/08.OnTimeForTheExam/bin/Debug/netcoreapp3.1/08.OnTimeForTheExam.deps.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-6/08.OnTimeForTheExam/bin/Debug/netcoreapp3.1/08.OnTimeForTheExam.runtimeconfig.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-6/08.OnTimeForTheExam/bin/Debug/netcoreapp3.1/08.OnTimeForTheExam.runtimeconfig.dev.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-6/08.OnTimeForTheExam/bin/Debug/netcoreapp3.1/08.OnTimeForTheExam.dll
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-6/08.OnTimeForTheExam/bin/Debug/netcoreapp3.1/08.OnTimeForTheExam.pdb
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-6/08.OnTimeForTheExam/obj/Debug/netcoreapp3.1/08.OnTimeForTheExam.csproj.AssemblyReference.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-6/08.OnTimeForTheExam/obj/Debug/netcoreapp3.1/08.OnTimeForTheExam.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-6/08.OnTimeForTheExam/obj/Debug/netcoreapp3.1/08.OnTimeForTheExam.AssemblyInfoInputs.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-6/08.OnTimeForTheExam/obj/Debug/netcoreapp3.1/08.OnTimeForTheExam.AssemblyInfo.cs
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-6/08.OnTimeForTheExam/obj/Debug/netcoreapp3.1/08.OnTimeForTheExam.csproj.CoreCompileInputs.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-6/08.OnTimeForTheExam/obj/Debug/netcoreapp3.1/08.OnTimeForTheExam.dll
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-6/08.OnTimeForTheExam/obj/Debug/netcoreapp3.1/08.OnTimeForTheExam.pdb
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-6/08.OnTimeForTheExam/obj/Debug/netcoreapp3.1/08.OnTimeForTheExam.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/08.BasketballEquipment/bin/Debug/netcoreapp3.1/08.BasketballEquipment
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/08.BasketballEquipment/bin/Debug/netcoreapp3.1/08.BasketballEquipment.deps.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/08.BasketballEquipment/bin/Debug/netcoreapp3.1/08.BasketballEquipment.runtimeconfig.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/08.BasketballEquipment/bin/Debug/netcoreapp3.1/08.BasketballEquipment.runtimeconfig.dev.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/08.BasketballEquipment/bin/Debug/netcoreapp3.1/08.BasketballEquipment.dll
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/08.BasketballEquipment/bin/Debug/netcoreapp3.1/08.BasketballEquipment.pdb
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/08.BasketballEquipment/obj/Debug/netcoreapp3.1/08.BasketballEquipment.csproj.AssemblyReference.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/08.BasketballEquipment/obj/Debug/netcoreapp3.1/08.BasketballEquipment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/08.BasketballEquipment/obj/Debug/netcoreapp3.1/08.BasketballEquipment.AssemblyInfoInputs.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/08.BasketballEquipment/obj/Debug/netcoreapp3.1/08.BasketballEquipment.AssemblyInfo.cs
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/08.BasketballEquipment/obj/Debug/netcoreapp3.1/08.BasketballEquipment.csproj.CoreCompileInputs.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/08.BasketballEquipment/obj/Debug/netcoreapp3.1/08.BasketballEquipment.dll
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/08.BasketballEquipment/obj/Debug/netcoreapp3.1/08.BasketballEquipment.pdb
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/08.BasketballEquipment/obj/Debug/netcoreapp3.1/08.BasketballEquipment.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-5/08.CinemaTicket/bin/Debug/netcoreapp3.1/08.CinemaTicket
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-5/08.CinemaTicket/bin/Debug/netcoreapp3.1/08.CinemaTicket.deps.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-5/08.CinemaTicket/bin/Debug/netcoreapp3.1/08.CinemaTicket.runtimeconfig.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-5/08.CinemaTicket/bin/Debug/netcoreapp3.1/08.CinemaTicket.runtimeconfig.dev.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-5/08.CinemaTicket/bin/Debug/netcoreapp3.1/08.CinemaTicket.dll
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-5/08.CinemaTicket/bin/Debug/netcoreapp3.1/08.CinemaTicket.pdb
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-5/08.CinemaTicket/obj/Debug/netcoreapp3.1/08.CinemaTicket.csproj.AssemblyReference.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-5/08.CinemaTicket/obj/Debug/netcoreapp3.1/08.CinemaTicket.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-5/08.CinemaTicket/obj/Debug/netcoreapp3.1/08.CinemaTicket.AssemblyInfoInputs.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-5/08.CinemaTicket/obj/Debug/netcoreapp3.1/08.CinemaTicket.AssemblyInfo.cs
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-5/08.CinemaTicket/obj/Debug/netcoreapp3.1/08.CinemaTicket.csproj.CoreCompileInputs.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-5/08.CinemaTicket/obj/Debug/netcoreapp3.1/08.CinemaTicket.dll
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-5/08.CinemaTicket/obj/Debug/netcoreapp3.1/08.CinemaTicket.pdb
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-5/08.CinemaTicket/obj/Debug/netcoreapp3.1/08.CinemaTicket.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-9/06.MaxNumber/bin/Debug/netcoreapp3.1/06.MaxNumber
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-9/06.MaxNumber/bin/Debug/netcoreapp3.1/06.MaxNumber.deps.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-9/06.MaxNumber/bin/Debug/netcoreapp3.1/06.MaxNumber.runtimeconfig.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-9/06.MaxNumber/bin/Debug/netcoreapp3.1/06.MaxNumber.runtimeconfig.dev.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-9/06.MaxNumber/bin/Debug/netcoreapp3.1/06.MaxNumber.dll
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-9/06.MaxNumber/bin/Debug/netcoreapp3.1/06.MaxNumber.pdb
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-9/06.MaxNumber/obj/Debug/netcoreapp3.1/06.MaxNumber.csproj.AssemblyReference.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-9/06.MaxNumber/obj/Debug/netcoreapp3.1/06.MaxNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-9/06.MaxNumber/obj/Debug/netcoreapp3.1/06.MaxNumber.AssemblyInfoInputs.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-9/06.MaxNumber/obj/Debug/netcoreapp3.1/06.MaxNumber.AssemblyInfo.cs
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-9/06.MaxNumber/obj/Debug/netcoreapp3.1/06.MaxNumber.csproj.CoreCompileInputs.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-9/06.MaxNumber/obj/Debug/netcoreapp3.1/06.MaxNumber.dll
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-9/06.MaxNumber/obj/Debug/netcoreapp3.1/06.MaxNumber.pdb
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-9/06.MaxNumber/obj/Debug/netcoreapp3.1/06.MaxNumber.genruntimeconfig.cache

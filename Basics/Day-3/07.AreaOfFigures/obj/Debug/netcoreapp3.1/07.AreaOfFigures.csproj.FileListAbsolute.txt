@@ -1,0 +1,14 @@
+/Users/stelakazandzhieva/Projects/03.ConditionalStatementsLab/07.AreaOfFigures/bin/Debug/netcoreapp3.1/07.AreaOfFigures
+/Users/stelakazandzhieva/Projects/03.ConditionalStatementsLab/07.AreaOfFigures/bin/Debug/netcoreapp3.1/07.AreaOfFigures.deps.json
+/Users/stelakazandzhieva/Projects/03.ConditionalStatementsLab/07.AreaOfFigures/bin/Debug/netcoreapp3.1/07.AreaOfFigures.runtimeconfig.json
+/Users/stelakazandzhieva/Projects/03.ConditionalStatementsLab/07.AreaOfFigures/bin/Debug/netcoreapp3.1/07.AreaOfFigures.runtimeconfig.dev.json
+/Users/stelakazandzhieva/Projects/03.ConditionalStatementsLab/07.AreaOfFigures/bin/Debug/netcoreapp3.1/07.AreaOfFigures.dll
+/Users/stelakazandzhieva/Projects/03.ConditionalStatementsLab/07.AreaOfFigures/bin/Debug/netcoreapp3.1/07.AreaOfFigures.pdb
+/Users/stelakazandzhieva/Projects/03.ConditionalStatementsLab/07.AreaOfFigures/obj/Debug/netcoreapp3.1/07.AreaOfFigures.csproj.AssemblyReference.cache
+/Users/stelakazandzhieva/Projects/03.ConditionalStatementsLab/07.AreaOfFigures/obj/Debug/netcoreapp3.1/07.AreaOfFigures.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stelakazandzhieva/Projects/03.ConditionalStatementsLab/07.AreaOfFigures/obj/Debug/netcoreapp3.1/07.AreaOfFigures.AssemblyInfoInputs.cache
+/Users/stelakazandzhieva/Projects/03.ConditionalStatementsLab/07.AreaOfFigures/obj/Debug/netcoreapp3.1/07.AreaOfFigures.AssemblyInfo.cs
+/Users/stelakazandzhieva/Projects/03.ConditionalStatementsLab/07.AreaOfFigures/obj/Debug/netcoreapp3.1/07.AreaOfFigures.csproj.CoreCompileInputs.cache
+/Users/stelakazandzhieva/Projects/03.ConditionalStatementsLab/07.AreaOfFigures/obj/Debug/netcoreapp3.1/07.AreaOfFigures.dll
+/Users/stelakazandzhieva/Projects/03.ConditionalStatementsLab/07.AreaOfFigures/obj/Debug/netcoreapp3.1/07.AreaOfFigures.pdb
+/Users/stelakazandzhieva/Projects/03.ConditionalStatementsLab/07.AreaOfFigures/obj/Debug/netcoreapp3.1/07.AreaOfFigures.genruntimeconfig.cache

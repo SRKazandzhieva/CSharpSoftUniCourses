@@ -1,0 +1,14 @@
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/02.RadiansToDegrees/bin/Debug/netcoreapp3.1/02.RadiansToDegrees
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/02.RadiansToDegrees/bin/Debug/netcoreapp3.1/02.RadiansToDegrees.deps.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/02.RadiansToDegrees/bin/Debug/netcoreapp3.1/02.RadiansToDegrees.runtimeconfig.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/02.RadiansToDegrees/bin/Debug/netcoreapp3.1/02.RadiansToDegrees.runtimeconfig.dev.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/02.RadiansToDegrees/bin/Debug/netcoreapp3.1/02.RadiansToDegrees.dll
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/02.RadiansToDegrees/bin/Debug/netcoreapp3.1/02.RadiansToDegrees.pdb
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/02.RadiansToDegrees/obj/Debug/netcoreapp3.1/02.RadiansToDegrees.csproj.AssemblyReference.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/02.RadiansToDegrees/obj/Debug/netcoreapp3.1/02.RadiansToDegrees.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/02.RadiansToDegrees/obj/Debug/netcoreapp3.1/02.RadiansToDegrees.AssemblyInfoInputs.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/02.RadiansToDegrees/obj/Debug/netcoreapp3.1/02.RadiansToDegrees.AssemblyInfo.cs
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/02.RadiansToDegrees/obj/Debug/netcoreapp3.1/02.RadiansToDegrees.csproj.CoreCompileInputs.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/02.RadiansToDegrees/obj/Debug/netcoreapp3.1/02.RadiansToDegrees.dll
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/02.RadiansToDegrees/obj/Debug/netcoreapp3.1/02.RadiansToDegrees.pdb
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/02.RadiansToDegrees/obj/Debug/netcoreapp3.1/02.RadiansToDegrees.genruntimeconfig.cache

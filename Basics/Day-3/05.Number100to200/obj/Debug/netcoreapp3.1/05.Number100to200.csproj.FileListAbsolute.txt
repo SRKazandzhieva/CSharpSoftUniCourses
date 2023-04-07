@@ -1,0 +1,14 @@
+/Users/stelakazandzhieva/Projects/03.ConditionalStatementsLab/05.Number100to200/bin/Debug/netcoreapp3.1/05.Number100to200
+/Users/stelakazandzhieva/Projects/03.ConditionalStatementsLab/05.Number100to200/bin/Debug/netcoreapp3.1/05.Number100to200.deps.json
+/Users/stelakazandzhieva/Projects/03.ConditionalStatementsLab/05.Number100to200/bin/Debug/netcoreapp3.1/05.Number100to200.runtimeconfig.json
+/Users/stelakazandzhieva/Projects/03.ConditionalStatementsLab/05.Number100to200/bin/Debug/netcoreapp3.1/05.Number100to200.runtimeconfig.dev.json
+/Users/stelakazandzhieva/Projects/03.ConditionalStatementsLab/05.Number100to200/bin/Debug/netcoreapp3.1/05.Number100to200.dll
+/Users/stelakazandzhieva/Projects/03.ConditionalStatementsLab/05.Number100to200/bin/Debug/netcoreapp3.1/05.Number100to200.pdb
+/Users/stelakazandzhieva/Projects/03.ConditionalStatementsLab/05.Number100to200/obj/Debug/netcoreapp3.1/05.Number100to200.csproj.AssemblyReference.cache
+/Users/stelakazandzhieva/Projects/03.ConditionalStatementsLab/05.Number100to200/obj/Debug/netcoreapp3.1/05.Number100to200.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stelakazandzhieva/Projects/03.ConditionalStatementsLab/05.Number100to200/obj/Debug/netcoreapp3.1/05.Number100to200.AssemblyInfoInputs.cache
+/Users/stelakazandzhieva/Projects/03.ConditionalStatementsLab/05.Number100to200/obj/Debug/netcoreapp3.1/05.Number100to200.AssemblyInfo.cs
+/Users/stelakazandzhieva/Projects/03.ConditionalStatementsLab/05.Number100to200/obj/Debug/netcoreapp3.1/05.Number100to200.csproj.CoreCompileInputs.cache
+/Users/stelakazandzhieva/Projects/03.ConditionalStatementsLab/05.Number100to200/obj/Debug/netcoreapp3.1/05.Number100to200.dll
+/Users/stelakazandzhieva/Projects/03.ConditionalStatementsLab/05.Number100to200/obj/Debug/netcoreapp3.1/05.Number100to200.pdb
+/Users/stelakazandzhieva/Projects/03.ConditionalStatementsLab/05.Number100to200/obj/Debug/netcoreapp3.1/05.Number100to200.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-8/07.TrekkingMania/bin/Debug/netcoreapp3.1/07.TrekkingMania
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-8/07.TrekkingMania/bin/Debug/netcoreapp3.1/07.TrekkingMania.deps.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-8/07.TrekkingMania/bin/Debug/netcoreapp3.1/07.TrekkingMania.runtimeconfig.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-8/07.TrekkingMania/bin/Debug/netcoreapp3.1/07.TrekkingMania.runtimeconfig.dev.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-8/07.TrekkingMania/bin/Debug/netcoreapp3.1/07.TrekkingMania.dll
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-8/07.TrekkingMania/bin/Debug/netcoreapp3.1/07.TrekkingMania.pdb
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-8/07.TrekkingMania/obj/Debug/netcoreapp3.1/07.TrekkingMania.csproj.AssemblyReference.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-8/07.TrekkingMania/obj/Debug/netcoreapp3.1/07.TrekkingMania.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-8/07.TrekkingMania/obj/Debug/netcoreapp3.1/07.TrekkingMania.AssemblyInfoInputs.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-8/07.TrekkingMania/obj/Debug/netcoreapp3.1/07.TrekkingMania.AssemblyInfo.cs
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-8/07.TrekkingMania/obj/Debug/netcoreapp3.1/07.TrekkingMania.csproj.CoreCompileInputs.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-8/07.TrekkingMania/obj/Debug/netcoreapp3.1/07.TrekkingMania.dll
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-8/07.TrekkingMania/obj/Debug/netcoreapp3.1/07.TrekkingMania.pdb
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-8/07.TrekkingMania/obj/Debug/netcoreapp3.1/07.TrekkingMania.genruntimeconfig.cache

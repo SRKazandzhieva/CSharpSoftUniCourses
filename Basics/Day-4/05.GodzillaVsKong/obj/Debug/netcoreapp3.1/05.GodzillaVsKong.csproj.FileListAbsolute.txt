@@ -1,0 +1,14 @@
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-4/04.ConditionalStatementsExercise/05.GodzillaVsKong/bin/Debug/netcoreapp3.1/05.GodzillaVsKong
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-4/04.ConditionalStatementsExercise/05.GodzillaVsKong/bin/Debug/netcoreapp3.1/05.GodzillaVsKong.deps.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-4/04.ConditionalStatementsExercise/05.GodzillaVsKong/bin/Debug/netcoreapp3.1/05.GodzillaVsKong.runtimeconfig.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-4/04.ConditionalStatementsExercise/05.GodzillaVsKong/bin/Debug/netcoreapp3.1/05.GodzillaVsKong.runtimeconfig.dev.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-4/04.ConditionalStatementsExercise/05.GodzillaVsKong/bin/Debug/netcoreapp3.1/05.GodzillaVsKong.dll
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-4/04.ConditionalStatementsExercise/05.GodzillaVsKong/bin/Debug/netcoreapp3.1/05.GodzillaVsKong.pdb
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-4/04.ConditionalStatementsExercise/05.GodzillaVsKong/obj/Debug/netcoreapp3.1/05.GodzillaVsKong.csproj.AssemblyReference.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-4/04.ConditionalStatementsExercise/05.GodzillaVsKong/obj/Debug/netcoreapp3.1/05.GodzillaVsKong.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-4/04.ConditionalStatementsExercise/05.GodzillaVsKong/obj/Debug/netcoreapp3.1/05.GodzillaVsKong.AssemblyInfoInputs.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-4/04.ConditionalStatementsExercise/05.GodzillaVsKong/obj/Debug/netcoreapp3.1/05.GodzillaVsKong.AssemblyInfo.cs
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-4/04.ConditionalStatementsExercise/05.GodzillaVsKong/obj/Debug/netcoreapp3.1/05.GodzillaVsKong.csproj.CoreCompileInputs.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-4/04.ConditionalStatementsExercise/05.GodzillaVsKong/obj/Debug/netcoreapp3.1/05.GodzillaVsKong.dll
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-4/04.ConditionalStatementsExercise/05.GodzillaVsKong/obj/Debug/netcoreapp3.1/05.GodzillaVsKong.pdb
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-4/04.ConditionalStatementsExercise/05.GodzillaVsKong/obj/Debug/netcoreapp3.1/05.GodzillaVsKong.genruntimeconfig.cache

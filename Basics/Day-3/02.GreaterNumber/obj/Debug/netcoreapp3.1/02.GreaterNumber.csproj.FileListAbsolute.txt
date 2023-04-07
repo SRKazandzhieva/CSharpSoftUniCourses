@@ -1,0 +1,14 @@
+/Users/stelakazandzhieva/Projects/03.ConditionalStatementsLab/02.GreaterNumber/obj/Debug/netcoreapp3.1/02.GreaterNumber.csproj.AssemblyReference.cache
+/Users/stelakazandzhieva/Projects/03.ConditionalStatementsLab/02.GreaterNumber/obj/Debug/netcoreapp3.1/02.GreaterNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stelakazandzhieva/Projects/03.ConditionalStatementsLab/02.GreaterNumber/obj/Debug/netcoreapp3.1/02.GreaterNumber.AssemblyInfoInputs.cache
+/Users/stelakazandzhieva/Projects/03.ConditionalStatementsLab/02.GreaterNumber/obj/Debug/netcoreapp3.1/02.GreaterNumber.AssemblyInfo.cs
+/Users/stelakazandzhieva/Projects/03.ConditionalStatementsLab/02.GreaterNumber/obj/Debug/netcoreapp3.1/02.GreaterNumber.csproj.CoreCompileInputs.cache
+/Users/stelakazandzhieva/Projects/03.ConditionalStatementsLab/02.GreaterNumber/bin/Debug/netcoreapp3.1/02.GreaterNumber
+/Users/stelakazandzhieva/Projects/03.ConditionalStatementsLab/02.GreaterNumber/bin/Debug/netcoreapp3.1/02.GreaterNumber.deps.json
+/Users/stelakazandzhieva/Projects/03.ConditionalStatementsLab/02.GreaterNumber/bin/Debug/netcoreapp3.1/02.GreaterNumber.runtimeconfig.json
+/Users/stelakazandzhieva/Projects/03.ConditionalStatementsLab/02.GreaterNumber/bin/Debug/netcoreapp3.1/02.GreaterNumber.runtimeconfig.dev.json
+/Users/stelakazandzhieva/Projects/03.ConditionalStatementsLab/02.GreaterNumber/bin/Debug/netcoreapp3.1/02.GreaterNumber.dll
+/Users/stelakazandzhieva/Projects/03.ConditionalStatementsLab/02.GreaterNumber/bin/Debug/netcoreapp3.1/02.GreaterNumber.pdb
+/Users/stelakazandzhieva/Projects/03.ConditionalStatementsLab/02.GreaterNumber/obj/Debug/netcoreapp3.1/02.GreaterNumber.dll
+/Users/stelakazandzhieva/Projects/03.ConditionalStatementsLab/02.GreaterNumber/obj/Debug/netcoreapp3.1/02.GreaterNumber.pdb
+/Users/stelakazandzhieva/Projects/03.ConditionalStatementsLab/02.GreaterNumber/obj/Debug/netcoreapp3.1/02.GreaterNumber.genruntimeconfig.cache

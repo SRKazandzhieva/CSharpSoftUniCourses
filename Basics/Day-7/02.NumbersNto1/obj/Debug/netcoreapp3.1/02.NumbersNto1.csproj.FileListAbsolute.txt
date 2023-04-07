@@ -1,0 +1,14 @@
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/02.NumbersNto1/bin/Debug/netcoreapp3.1/02.NumbersNto1
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/02.NumbersNto1/bin/Debug/netcoreapp3.1/02.NumbersNto1.deps.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/02.NumbersNto1/bin/Debug/netcoreapp3.1/02.NumbersNto1.runtimeconfig.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/02.NumbersNto1/bin/Debug/netcoreapp3.1/02.NumbersNto1.runtimeconfig.dev.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/02.NumbersNto1/bin/Debug/netcoreapp3.1/02.NumbersNto1.dll
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/02.NumbersNto1/bin/Debug/netcoreapp3.1/02.NumbersNto1.pdb
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/02.NumbersNto1/obj/Debug/netcoreapp3.1/02.NumbersNto1.csproj.AssemblyReference.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/02.NumbersNto1/obj/Debug/netcoreapp3.1/02.NumbersNto1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/02.NumbersNto1/obj/Debug/netcoreapp3.1/02.NumbersNto1.AssemblyInfoInputs.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/02.NumbersNto1/obj/Debug/netcoreapp3.1/02.NumbersNto1.AssemblyInfo.cs
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/02.NumbersNto1/obj/Debug/netcoreapp3.1/02.NumbersNto1.csproj.CoreCompileInputs.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/02.NumbersNto1/obj/Debug/netcoreapp3.1/02.NumbersNto1.dll
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/02.NumbersNto1/obj/Debug/netcoreapp3.1/02.NumbersNto1.pdb
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/02.NumbersNto1/obj/Debug/netcoreapp3.1/02.NumbersNto1.genruntimeconfig.cache

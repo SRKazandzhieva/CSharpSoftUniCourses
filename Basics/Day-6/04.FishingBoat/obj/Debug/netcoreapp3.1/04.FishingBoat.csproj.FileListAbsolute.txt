@@ -1,0 +1,14 @@
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-6/04.FishingBoat/bin/Debug/netcoreapp3.1/04.FishingBoat
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-6/04.FishingBoat/bin/Debug/netcoreapp3.1/04.FishingBoat.deps.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-6/04.FishingBoat/bin/Debug/netcoreapp3.1/04.FishingBoat.runtimeconfig.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-6/04.FishingBoat/bin/Debug/netcoreapp3.1/04.FishingBoat.runtimeconfig.dev.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-6/04.FishingBoat/bin/Debug/netcoreapp3.1/04.FishingBoat.dll
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-6/04.FishingBoat/bin/Debug/netcoreapp3.1/04.FishingBoat.pdb
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-6/04.FishingBoat/obj/Debug/netcoreapp3.1/04.FishingBoat.csproj.AssemblyReference.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-6/04.FishingBoat/obj/Debug/netcoreapp3.1/04.FishingBoat.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-6/04.FishingBoat/obj/Debug/netcoreapp3.1/04.FishingBoat.AssemblyInfoInputs.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-6/04.FishingBoat/obj/Debug/netcoreapp3.1/04.FishingBoat.AssemblyInfo.cs
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-6/04.FishingBoat/obj/Debug/netcoreapp3.1/04.FishingBoat.csproj.CoreCompileInputs.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-6/04.FishingBoat/obj/Debug/netcoreapp3.1/04.FishingBoat.dll
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-6/04.FishingBoat/obj/Debug/netcoreapp3.1/04.FishingBoat.pdb
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-6/04.FishingBoat/obj/Debug/netcoreapp3.1/04.FishingBoat.genruntimeconfig.cache

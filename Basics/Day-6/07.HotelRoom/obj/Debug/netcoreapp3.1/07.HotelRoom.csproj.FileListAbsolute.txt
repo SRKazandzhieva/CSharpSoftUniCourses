@@ -1,0 +1,14 @@
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-6/07.HotelRoom/bin/Debug/netcoreapp3.1/07.HotelRoom
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-6/07.HotelRoom/bin/Debug/netcoreapp3.1/07.HotelRoom.deps.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-6/07.HotelRoom/bin/Debug/netcoreapp3.1/07.HotelRoom.runtimeconfig.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-6/07.HotelRoom/bin/Debug/netcoreapp3.1/07.HotelRoom.runtimeconfig.dev.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-6/07.HotelRoom/bin/Debug/netcoreapp3.1/07.HotelRoom.dll
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-6/07.HotelRoom/bin/Debug/netcoreapp3.1/07.HotelRoom.pdb
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-6/07.HotelRoom/obj/Debug/netcoreapp3.1/07.HotelRoom.csproj.AssemblyReference.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-6/07.HotelRoom/obj/Debug/netcoreapp3.1/07.HotelRoom.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-6/07.HotelRoom/obj/Debug/netcoreapp3.1/07.HotelRoom.AssemblyInfoInputs.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-6/07.HotelRoom/obj/Debug/netcoreapp3.1/07.HotelRoom.AssemblyInfo.cs
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-6/07.HotelRoom/obj/Debug/netcoreapp3.1/07.HotelRoom.csproj.CoreCompileInputs.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-6/07.HotelRoom/obj/Debug/netcoreapp3.1/07.HotelRoom.dll
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-6/07.HotelRoom/obj/Debug/netcoreapp3.1/07.HotelRoom.pdb
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-6/07.HotelRoom/obj/Debug/netcoreapp3.1/07.HotelRoom.genruntimeconfig.cache

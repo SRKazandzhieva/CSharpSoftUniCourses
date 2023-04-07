@@ -1,0 +1,14 @@
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-4/04.ConditionalStatementsExercise/02.BonusScore/bin/Debug/netcoreapp3.1/02.BonusScore
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-4/04.ConditionalStatementsExercise/02.BonusScore/bin/Debug/netcoreapp3.1/02.BonusScore.deps.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-4/04.ConditionalStatementsExercise/02.BonusScore/bin/Debug/netcoreapp3.1/02.BonusScore.runtimeconfig.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-4/04.ConditionalStatementsExercise/02.BonusScore/bin/Debug/netcoreapp3.1/02.BonusScore.runtimeconfig.dev.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-4/04.ConditionalStatementsExercise/02.BonusScore/bin/Debug/netcoreapp3.1/02.BonusScore.dll
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-4/04.ConditionalStatementsExercise/02.BonusScore/bin/Debug/netcoreapp3.1/02.BonusScore.pdb
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-4/04.ConditionalStatementsExercise/02.BonusScore/obj/Debug/netcoreapp3.1/02.BonusScore.csproj.AssemblyReference.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-4/04.ConditionalStatementsExercise/02.BonusScore/obj/Debug/netcoreapp3.1/02.BonusScore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-4/04.ConditionalStatementsExercise/02.BonusScore/obj/Debug/netcoreapp3.1/02.BonusScore.AssemblyInfoInputs.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-4/04.ConditionalStatementsExercise/02.BonusScore/obj/Debug/netcoreapp3.1/02.BonusScore.AssemblyInfo.cs
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-4/04.ConditionalStatementsExercise/02.BonusScore/obj/Debug/netcoreapp3.1/02.BonusScore.csproj.CoreCompileInputs.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-4/04.ConditionalStatementsExercise/02.BonusScore/obj/Debug/netcoreapp3.1/02.BonusScore.dll
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-4/04.ConditionalStatementsExercise/02.BonusScore/obj/Debug/netcoreapp3.1/02.BonusScore.pdb
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-4/04.ConditionalStatementsExercise/02.BonusScore/obj/Debug/netcoreapp3.1/02.BonusScore.genruntimeconfig.cache

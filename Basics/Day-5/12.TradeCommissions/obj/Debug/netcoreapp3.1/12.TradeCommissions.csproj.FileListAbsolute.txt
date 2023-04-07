@@ -1,0 +1,14 @@
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-5/12.TradeCommissions/obj/Debug/netcoreapp3.1/12.TradeCommissions.csproj.AssemblyReference.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-5/12.TradeCommissions/obj/Debug/netcoreapp3.1/12.TradeCommissions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-5/12.TradeCommissions/obj/Debug/netcoreapp3.1/12.TradeCommissions.AssemblyInfoInputs.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-5/12.TradeCommissions/obj/Debug/netcoreapp3.1/12.TradeCommissions.AssemblyInfo.cs
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-5/12.TradeCommissions/obj/Debug/netcoreapp3.1/12.TradeCommissions.csproj.CoreCompileInputs.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-5/12.TradeCommissions/bin/Debug/netcoreapp3.1/12.TradeCommissions
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-5/12.TradeCommissions/bin/Debug/netcoreapp3.1/12.TradeCommissions.deps.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-5/12.TradeCommissions/bin/Debug/netcoreapp3.1/12.TradeCommissions.runtimeconfig.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-5/12.TradeCommissions/bin/Debug/netcoreapp3.1/12.TradeCommissions.runtimeconfig.dev.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-5/12.TradeCommissions/bin/Debug/netcoreapp3.1/12.TradeCommissions.dll
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-5/12.TradeCommissions/bin/Debug/netcoreapp3.1/12.TradeCommissions.pdb
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-5/12.TradeCommissions/obj/Debug/netcoreapp3.1/12.TradeCommissions.dll
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-5/12.TradeCommissions/obj/Debug/netcoreapp3.1/12.TradeCommissions.pdb
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-5/12.TradeCommissions/obj/Debug/netcoreapp3.1/12.TradeCommissions.genruntimeconfig.cache

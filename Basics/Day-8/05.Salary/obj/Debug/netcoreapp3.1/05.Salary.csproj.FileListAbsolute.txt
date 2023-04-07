@@ -1,0 +1,14 @@
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-8/05.Salary/bin/Debug/netcoreapp3.1/05.Salary
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-8/05.Salary/bin/Debug/netcoreapp3.1/05.Salary.deps.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-8/05.Salary/bin/Debug/netcoreapp3.1/05.Salary.runtimeconfig.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-8/05.Salary/bin/Debug/netcoreapp3.1/05.Salary.runtimeconfig.dev.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-8/05.Salary/bin/Debug/netcoreapp3.1/05.Salary.dll
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-8/05.Salary/bin/Debug/netcoreapp3.1/05.Salary.pdb
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-8/05.Salary/obj/Debug/netcoreapp3.1/05.Salary.csproj.AssemblyReference.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-8/05.Salary/obj/Debug/netcoreapp3.1/05.Salary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-8/05.Salary/obj/Debug/netcoreapp3.1/05.Salary.AssemblyInfoInputs.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-8/05.Salary/obj/Debug/netcoreapp3.1/05.Salary.AssemblyInfo.cs
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-8/05.Salary/obj/Debug/netcoreapp3.1/05.Salary.csproj.CoreCompileInputs.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-8/05.Salary/obj/Debug/netcoreapp3.1/05.Salary.dll
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-8/05.Salary/obj/Debug/netcoreapp3.1/05.Salary.pdb
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-8/05.Salary/obj/Debug/netcoreapp3.1/05.Salary.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/07.FoodDelivery/bin/Debug/netcoreapp3.1/07.FoodDelivery
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/07.FoodDelivery/bin/Debug/netcoreapp3.1/07.FoodDelivery.deps.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/07.FoodDelivery/bin/Debug/netcoreapp3.1/07.FoodDelivery.runtimeconfig.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/07.FoodDelivery/bin/Debug/netcoreapp3.1/07.FoodDelivery.runtimeconfig.dev.json
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/07.FoodDelivery/bin/Debug/netcoreapp3.1/07.FoodDelivery.dll
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/07.FoodDelivery/bin/Debug/netcoreapp3.1/07.FoodDelivery.pdb
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/07.FoodDelivery/obj/Debug/netcoreapp3.1/07.FoodDelivery.csproj.AssemblyReference.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/07.FoodDelivery/obj/Debug/netcoreapp3.1/07.FoodDelivery.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/07.FoodDelivery/obj/Debug/netcoreapp3.1/07.FoodDelivery.AssemblyInfoInputs.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/07.FoodDelivery/obj/Debug/netcoreapp3.1/07.FoodDelivery.AssemblyInfo.cs
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/07.FoodDelivery/obj/Debug/netcoreapp3.1/07.FoodDelivery.csproj.CoreCompileInputs.cache
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/07.FoodDelivery/obj/Debug/netcoreapp3.1/07.FoodDelivery.dll
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/07.FoodDelivery/obj/Debug/netcoreapp3.1/07.FoodDelivery.pdb
+/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-2/07.FoodDelivery/obj/Debug/netcoreapp3.1/07.FoodDelivery.genruntimeconfig.cache
