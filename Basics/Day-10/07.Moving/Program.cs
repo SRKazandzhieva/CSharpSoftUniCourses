@@ -20,7 +20,7 @@ namespace _07.Moving
                 TotalBaggage += cartons;
                 command = Console.ReadLine();
             }
-            if (command != "Done")
+            if (command == "Done")
             {
                 Console.WriteLine($"{newHomeSpace - TotalBaggage} Cubic meters left.");
             }
