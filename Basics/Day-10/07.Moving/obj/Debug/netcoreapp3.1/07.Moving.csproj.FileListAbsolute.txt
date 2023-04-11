@@ -1,0 +1,14 @@
+/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-10/07.Moving/bin/Debug/netcoreapp3.1/07.Moving
+/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-10/07.Moving/bin/Debug/netcoreapp3.1/07.Moving.deps.json
+/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-10/07.Moving/bin/Debug/netcoreapp3.1/07.Moving.runtimeconfig.json
+/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-10/07.Moving/bin/Debug/netcoreapp3.1/07.Moving.runtimeconfig.dev.json
+/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-10/07.Moving/bin/Debug/netcoreapp3.1/07.Moving.dll
+/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-10/07.Moving/bin/Debug/netcoreapp3.1/07.Moving.pdb
+/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-10/07.Moving/obj/Debug/netcoreapp3.1/07.Moving.csproj.AssemblyReference.cache
+/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-10/07.Moving/obj/Debug/netcoreapp3.1/07.Moving.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-10/07.Moving/obj/Debug/netcoreapp3.1/07.Moving.AssemblyInfoInputs.cache
+/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-10/07.Moving/obj/Debug/netcoreapp3.1/07.Moving.AssemblyInfo.cs
+/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-10/07.Moving/obj/Debug/netcoreapp3.1/07.Moving.csproj.CoreCompileInputs.cache
+/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-10/07.Moving/obj/Debug/netcoreapp3.1/07.Moving.dll
+/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-10/07.Moving/obj/Debug/netcoreapp3.1/07.Moving.pdb
+/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-10/07.Moving/obj/Debug/netcoreapp3.1/07.Moving.genruntimeconfig.cache

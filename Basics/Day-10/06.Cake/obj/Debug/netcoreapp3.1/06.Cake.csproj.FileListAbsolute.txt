@@ -1,0 +1,14 @@
+/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-10/06.Cake/bin/Debug/netcoreapp3.1/06.Cake
+/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-10/06.Cake/bin/Debug/netcoreapp3.1/06.Cake.deps.json
+/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-10/06.Cake/bin/Debug/netcoreapp3.1/06.Cake.runtimeconfig.json
+/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-10/06.Cake/bin/Debug/netcoreapp3.1/06.Cake.runtimeconfig.dev.json
+/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-10/06.Cake/bin/Debug/netcoreapp3.1/06.Cake.dll
+/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-10/06.Cake/bin/Debug/netcoreapp3.1/06.Cake.pdb
+/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-10/06.Cake/obj/Debug/netcoreapp3.1/06.Cake.csproj.AssemblyReference.cache
+/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-10/06.Cake/obj/Debug/netcoreapp3.1/06.Cake.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-10/06.Cake/obj/Debug/netcoreapp3.1/06.Cake.AssemblyInfoInputs.cache
+/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-10/06.Cake/obj/Debug/netcoreapp3.1/06.Cake.AssemblyInfo.cs
+/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-10/06.Cake/obj/Debug/netcoreapp3.1/06.Cake.csproj.CoreCompileInputs.cache
+/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-10/06.Cake/obj/Debug/netcoreapp3.1/06.Cake.dll
+/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-10/06.Cake/obj/Debug/netcoreapp3.1/06.Cake.pdb
+/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-10/06.Cake/obj/Debug/netcoreapp3.1/06.Cake.genruntimeconfig.cache
