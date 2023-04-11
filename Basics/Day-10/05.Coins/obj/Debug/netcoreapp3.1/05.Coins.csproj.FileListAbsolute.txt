@@ -1,0 +1,14 @@
+/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-10/05.Coins/bin/Debug/netcoreapp3.1/05.Coins
+/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-10/05.Coins/bin/Debug/netcoreapp3.1/05.Coins.deps.json
+/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-10/05.Coins/bin/Debug/netcoreapp3.1/05.Coins.runtimeconfig.json
+/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-10/05.Coins/bin/Debug/netcoreapp3.1/05.Coins.runtimeconfig.dev.json
+/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-10/05.Coins/bin/Debug/netcoreapp3.1/05.Coins.dll
+/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-10/05.Coins/bin/Debug/netcoreapp3.1/05.Coins.pdb
+/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-10/05.Coins/obj/Debug/netcoreapp3.1/05.Coins.csproj.AssemblyReference.cache
+/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-10/05.Coins/obj/Debug/netcoreapp3.1/05.Coins.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-10/05.Coins/obj/Debug/netcoreapp3.1/05.Coins.AssemblyInfoInputs.cache
+/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-10/05.Coins/obj/Debug/netcoreapp3.1/05.Coins.AssemblyInfo.cs
+/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-10/05.Coins/obj/Debug/netcoreapp3.1/05.Coins.csproj.CoreCompileInputs.cache
+/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-10/05.Coins/obj/Debug/netcoreapp3.1/05.Coins.dll
+/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-10/05.Coins/obj/Debug/netcoreapp3.1/05.Coins.pdb
+/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-10/05.Coins/obj/Debug/netcoreapp3.1/05.Coins.genruntimeconfig.cache

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-1/04.InchestoCentimeters/04.InchestoCentimeters.csproj",
+      "projectUniqueName": "/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-1/04.InchestoCentimeters/04.InchestoCentimeters.csproj",
       "projectName": "04.InchestoCentimeters",
-      "projectPath": "/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-1/04.InchestoCentimeters/04.InchestoCentimeters.csproj",
+      "projectPath": "/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-1/04.InchestoCentimeters/04.InchestoCentimeters.csproj",
       "packagesPath": "/Users/stelakazandzhieva/.nuget/packages/",
-      "outputPath": "/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-1/04.InchestoCentimeters/obj/",
+      "outputPath": "/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-1/04.InchestoCentimeters/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/stelakazandzhieva/.nuget/NuGet/NuGet.Config"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.200/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
       }
     }
   }

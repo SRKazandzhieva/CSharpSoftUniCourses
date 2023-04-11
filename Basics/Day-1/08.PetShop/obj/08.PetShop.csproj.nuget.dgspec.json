@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-1/08.PetShop/08.PetShop.csproj": {}
+    "/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-1/08.PetShop/08.PetShop.csproj": {}
   },
   "projects": {
-    "/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-1/08.PetShop/08.PetShop.csproj": {
+    "/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-1/08.PetShop/08.PetShop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-1/08.PetShop/08.PetShop.csproj",
+        "projectUniqueName": "/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-1/08.PetShop/08.PetShop.csproj",
         "projectName": "08.PetShop",
-        "projectPath": "/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-1/08.PetShop/08.PetShop.csproj",
+        "projectPath": "/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-1/08.PetShop/08.PetShop.csproj",
         "packagesPath": "/Users/stelakazandzhieva/.nuget/packages/",
-        "outputPath": "/Users/stelakazandzhieva/IT/C#/SoftUni/Basics/GitHub/CSharpSoftUni2/Untitled/Day-1/08.PetShop/obj/",
+        "outputPath": "/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-1/08.PetShop/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/stelakazandzhieva/.nuget/NuGet/NuGet.Config"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.200/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/stelakazandzhieva/IT/C#/SoftUniCSharpCourses/Basics/Day-10/02.ExamPreparation/02.ExamPreparation.csproj": {}
+    "/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-10/02.ExamPreparation/02.ExamPreparation.csproj": {}
   },
   "projects": {
-    "/Users/stelakazandzhieva/IT/C#/SoftUniCSharpCourses/Basics/Day-10/02.ExamPreparation/02.ExamPreparation.csproj": {
+    "/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-10/02.ExamPreparation/02.ExamPreparation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/stelakazandzhieva/IT/C#/SoftUniCSharpCourses/Basics/Day-10/02.ExamPreparation/02.ExamPreparation.csproj",
+        "projectUniqueName": "/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-10/02.ExamPreparation/02.ExamPreparation.csproj",
         "projectName": "02.ExamPreparation",
-        "projectPath": "/Users/stelakazandzhieva/IT/C#/SoftUniCSharpCourses/Basics/Day-10/02.ExamPreparation/02.ExamPreparation.csproj",
+        "projectPath": "/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-10/02.ExamPreparation/02.ExamPreparation.csproj",
         "packagesPath": "/Users/stelakazandzhieva/.nuget/packages/",
-        "outputPath": "/Users/stelakazandzhieva/IT/C#/SoftUniCSharpCourses/Basics/Day-10/02.ExamPreparation/obj/",
+        "outputPath": "/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-10/02.ExamPreparation/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/stelakazandzhieva/.nuget/NuGet/NuGet.Config"
