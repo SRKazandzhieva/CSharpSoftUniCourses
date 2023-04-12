@@ -1,0 +1,14 @@
+/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-11/03.Combinations/obj/Debug/netcoreapp3.1/03.Combinations.csproj.AssemblyReference.cache
+/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-11/03.Combinations/obj/Debug/netcoreapp3.1/03.Combinations.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-11/03.Combinations/obj/Debug/netcoreapp3.1/03.Combinations.AssemblyInfoInputs.cache
+/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-11/03.Combinations/obj/Debug/netcoreapp3.1/03.Combinations.AssemblyInfo.cs
+/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-11/03.Combinations/obj/Debug/netcoreapp3.1/03.Combinations.csproj.CoreCompileInputs.cache
+/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-11/03.Combinations/bin/Debug/netcoreapp3.1/03.Combinations
+/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-11/03.Combinations/bin/Debug/netcoreapp3.1/03.Combinations.deps.json
+/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-11/03.Combinations/bin/Debug/netcoreapp3.1/03.Combinations.runtimeconfig.json
+/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-11/03.Combinations/bin/Debug/netcoreapp3.1/03.Combinations.runtimeconfig.dev.json
+/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-11/03.Combinations/bin/Debug/netcoreapp3.1/03.Combinations.dll
+/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-11/03.Combinations/bin/Debug/netcoreapp3.1/03.Combinations.pdb
+/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-11/03.Combinations/obj/Debug/netcoreapp3.1/03.Combinations.dll
+/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-11/03.Combinations/obj/Debug/netcoreapp3.1/03.Combinations.pdb
+/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-11/03.Combinations/obj/Debug/netcoreapp3.1/03.Combinations.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-11/06.Building/bin/Debug/netcoreapp3.1/06.Building
+/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-11/06.Building/bin/Debug/netcoreapp3.1/06.Building.deps.json
+/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-11/06.Building/bin/Debug/netcoreapp3.1/06.Building.runtimeconfig.json
+/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-11/06.Building/bin/Debug/netcoreapp3.1/06.Building.runtimeconfig.dev.json
+/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-11/06.Building/bin/Debug/netcoreapp3.1/06.Building.dll
+/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-11/06.Building/bin/Debug/netcoreapp3.1/06.Building.pdb
+/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-11/06.Building/obj/Debug/netcoreapp3.1/06.Building.csproj.AssemblyReference.cache
+/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-11/06.Building/obj/Debug/netcoreapp3.1/06.Building.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-11/06.Building/obj/Debug/netcoreapp3.1/06.Building.AssemblyInfoInputs.cache
+/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-11/06.Building/obj/Debug/netcoreapp3.1/06.Building.AssemblyInfo.cs
+/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-11/06.Building/obj/Debug/netcoreapp3.1/06.Building.csproj.CoreCompileInputs.cache
+/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-11/06.Building/obj/Debug/netcoreapp3.1/06.Building.dll
+/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-11/06.Building/obj/Debug/netcoreapp3.1/06.Building.pdb
+/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-11/06.Building/obj/Debug/netcoreapp3.1/06.Building.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-11/02.MultiplicationTable/bin/Debug/netcoreapp3.1/02.MultiplicationTable
+/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-11/02.MultiplicationTable/bin/Debug/netcoreapp3.1/02.MultiplicationTable.deps.json
+/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-11/02.MultiplicationTable/bin/Debug/netcoreapp3.1/02.MultiplicationTable.runtimeconfig.json
+/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-11/02.MultiplicationTable/bin/Debug/netcoreapp3.1/02.MultiplicationTable.runtimeconfig.dev.json
+/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-11/02.MultiplicationTable/bin/Debug/netcoreapp3.1/02.MultiplicationTable.dll
+/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-11/02.MultiplicationTable/bin/Debug/netcoreapp3.1/02.MultiplicationTable.pdb
+/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-11/02.MultiplicationTable/obj/Debug/netcoreapp3.1/02.MultiplicationTable.csproj.AssemblyReference.cache
+/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-11/02.MultiplicationTable/obj/Debug/netcoreapp3.1/02.MultiplicationTable.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-11/02.MultiplicationTable/obj/Debug/netcoreapp3.1/02.MultiplicationTable.AssemblyInfoInputs.cache
+/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-11/02.MultiplicationTable/obj/Debug/netcoreapp3.1/02.MultiplicationTable.AssemblyInfo.cs
+/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-11/02.MultiplicationTable/obj/Debug/netcoreapp3.1/02.MultiplicationTable.csproj.CoreCompileInputs.cache
+/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-11/02.MultiplicationTable/obj/Debug/netcoreapp3.1/02.MultiplicationTable.dll
+/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-11/02.MultiplicationTable/obj/Debug/netcoreapp3.1/02.MultiplicationTable.pdb
+/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-11/02.MultiplicationTable/obj/Debug/netcoreapp3.1/02.MultiplicationTable.genruntimeconfig.cache

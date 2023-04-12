@@ -1,0 +1,14 @@
+/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-11/04.SumOfTwoNumbers/bin/Debug/netcoreapp3.1/04.SumOfTwoNumbers
+/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-11/04.SumOfTwoNumbers/bin/Debug/netcoreapp3.1/04.SumOfTwoNumbers.deps.json
+/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-11/04.SumOfTwoNumbers/bin/Debug/netcoreapp3.1/04.SumOfTwoNumbers.runtimeconfig.json
+/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-11/04.SumOfTwoNumbers/bin/Debug/netcoreapp3.1/04.SumOfTwoNumbers.runtimeconfig.dev.json
+/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-11/04.SumOfTwoNumbers/bin/Debug/netcoreapp3.1/04.SumOfTwoNumbers.dll
+/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-11/04.SumOfTwoNumbers/bin/Debug/netcoreapp3.1/04.SumOfTwoNumbers.pdb
+/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-11/04.SumOfTwoNumbers/obj/Debug/netcoreapp3.1/04.SumOfTwoNumbers.csproj.AssemblyReference.cache
+/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-11/04.SumOfTwoNumbers/obj/Debug/netcoreapp3.1/04.SumOfTwoNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-11/04.SumOfTwoNumbers/obj/Debug/netcoreapp3.1/04.SumOfTwoNumbers.AssemblyInfoInputs.cache
+/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-11/04.SumOfTwoNumbers/obj/Debug/netcoreapp3.1/04.SumOfTwoNumbers.AssemblyInfo.cs
+/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-11/04.SumOfTwoNumbers/obj/Debug/netcoreapp3.1/04.SumOfTwoNumbers.csproj.CoreCompileInputs.cache
+/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-11/04.SumOfTwoNumbers/obj/Debug/netcoreapp3.1/04.SumOfTwoNumbers.dll
+/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-11/04.SumOfTwoNumbers/obj/Debug/netcoreapp3.1/04.SumOfTwoNumbers.pdb
+/Users/stelakazandzhieva/IT/C#/CSharpSoftUniCourses/Basics/Day-11/04.SumOfTwoNumbers/obj/Debug/netcoreapp3.1/04.SumOfTwoNumbers.genruntimeconfig.cache
